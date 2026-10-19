@@ -1,0 +1,4 @@
+ensamble,RMSE,RMSE_sd,MAE,R2
+Actual: Ridge(vecinas + lluvia + amplitud),0.494,0.0062,0.3381,0.6607
+Con amplitud²,0.4942,0.0063,0.3382,0.6605
+Con lluvia × amplitud,0.4938,0.0064,0.3385,0.6609

@@ -1,0 +1,11 @@
+CEBADA360 · Visor de parcelas
+Archivo: visor_cebada360.html (un solo archivo; se abre con doble clic en Chrome, Edge o Firefox; necesita internet solo para el mapa base).
+Para publicarlo: súbanlo tal cual a GitHub Pages, Netlify o Google Sites (insertar HTML), o pónganlo como página de su app.
+Capas: 1 rendimiento (observado/estimado), 2 incertidumbre (intervalo 80 %), 3 vegetación y calidad satelital, 4 probabilidad modelada de ingreso insuficiente para un crédito hipotético (escenario, no incumplimiento real).
+Archivos que usa (generados por el notebook): outputs/parcelas.geojson, outputs/base_maestra_v3.csv, outputs/coordenadas_parcelas.csv,
+  outputs/banderas_calidad.csv, resultados_I3/predicciones.csv, resultados_I3/factores.csv, resultados_I3/alerta_dano_59.csv,
+  resultados_I3/ENTREGA/predicciones_59_entrega.csv y SHA256.txt, resultados_I4/credito_por_parcela*.csv, resultados_I4/supuestos_credito.csv.
+Intervalos y riesgo: paso 27 (intervalo ampliado en municipios con más error).
+Pruebas de integridad: pruebas_visor.csv (18 pruebas, 18 OK).
+Imágenes para el reporte: capturas/visor_4_capas.png.
+No cambia el modelo ni las predicciones: solo lee los resultados validados.

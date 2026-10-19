@@ -1,0 +1,24 @@
+# Python
+**/.venv/
+**/venv/
+**/__pycache__/
+**/.pytest_cache/
+*.pyc
+
+# Node.js y Vite
+**/node_modules/
+**/dist/
+**/.vite/
+
+# Configuración local y secretos
+.env
+.env.*
+**/.env
+**/.env.*
+!.env.example
+!**/.env.example
+
+# Archivos temporales
+*.log
+.DS_Store
+Thumbs.db

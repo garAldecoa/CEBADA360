@@ -1,0 +1,12 @@
+grupo,parcelas,RMSE_ensamble,nivel,pct_redondeado
+medido (2 decimales),93,0.5197,tipo de dato,
+redondeado a 0.5,45,0.4359,tipo de dato,
+Nanacamilpa de Mariano Arista,1,0.9154,municipio,1.0
+Chignahuapan,71,0.5767,municipio,0.0141
+Singuilucan,16,0.4592,municipio,0.5625
+Tepeapulco,1,0.4492,municipio,0.0
+Calpulalpan,30,0.3944,municipio,1.0
+Apan,1,0.3394,municipio,1.0
+Cuautepec de Hinojosa,5,0.2874,municipio,0.0
+Almoloya,10,0.1924,municipio,0.0
+Emiliano Zapata,3,0.168,municipio,1.0

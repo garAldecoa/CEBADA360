@@ -1,0 +1,2 @@
+candidatas,rmse_referencia,mejor_variable,delta_mejor,p_permutacion_sola,p_bonferroni,anidada_referencia,anidada_barrer_y_elegir,variables_distintas_elegidas,decision
+272,0.4963,n_s2_dswi2_media,-0.0068,0.015,1.0,0.4961,0.5131,6,NO entra ninguna variable: la mejor mejora no sobrevive a la corrección por pruebas múltiples y elegir por barrido empeora fuera de muestra (maldición del ganador).

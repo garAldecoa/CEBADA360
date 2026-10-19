@@ -1,0 +1,247 @@
+﻿variable,bloque,familia,descripcion,unidad,faltantes,en_reducida,en_nucleo,redundante_con,archivo
+ID_POLIGONO,id,,Identificador de parcela,texto,0.0,True,False,,base_maestra_v3.csv
+area_ha,parcela,parcela,Superficie oficial,ha,0.0,True,True,,base_maestra_v3.csv
+y,objetivo,,Rendimiento observado (NaN en PREDICCION) — variable objetivo,t/ha,59.0,True,False,,base_maestra_v3.csv
+CONJUNTO,id,,ENTRENAMIENTO o PREDICCION,texto,0.0,True,False,,base_maestra_v3.csv
+Municipio,id,,Municipio,texto,0.0,True,False,,base_maestra_v3.csv
+Estado,id,,Estado,texto,0.0,True,False,,base_maestra_v3.csv
+rend_redondo,diagnóstico,,"1 si el rendimiento es múltiplo de 0.5 (reportado por productor). Diagnóstico, NO predictor",0/1,59.0,False,False,,base_maestra_v3.csv
+cal_pl_n_obs,calidad,,Planet: observaciones válidas abr-dic 2025 (calidad de información; NO usar como predictor),conteo,0.0,False,False,,base_maestra_v3.csv
+cal_pl_hueco_max_dias,calidad,,Planet: mayor hueco entre observaciones (calidad de información; NO usar como predictor),días,0.0,False,False,,base_maestra_v3.csv
+cal_pl_nub_media,calidad,,Planet: nubosidad media (calidad de información; NO usar como predictor),%,0.0,False,False,,base_maestra_v3.csv
+cal_pl_primera,calidad,,Planet: día del año de la 1a observación (calidad de información; NO usar como predictor),día del año,0.0,False,False,,base_maestra_v3.csv
+cal_pl_ultima,calidad,,Planet: día del año de la última obs. (calidad de información; NO usar como predictor),día del año,0.0,False,False,,base_maestra_v3.csv
+cal_s2_n_obs,calidad,,Sentinel-2: observaciones válidas abr-dic 2025 (calidad de información; NO usar como predictor),conteo,0.0,False,False,,base_maestra_v3.csv
+cal_s2_hueco_max_dias,calidad,,Sentinel-2: mayor hueco entre observaciones (calidad de información; NO usar como predictor),días,0.0,False,False,,base_maestra_v3.csv
+cal_s2_nub_media,calidad,,Sentinel-2: nubosidad media (calidad de información; NO usar como predictor),%,0.0,False,False,,base_maestra_v3.csv
+cal_s2_primera,calidad,,Sentinel-2: día del año de la 1a observación (calidad de información; NO usar como predictor),día del año,0.0,False,False,,base_maestra_v3.csv
+cal_s2_ultima,calidad,,Sentinel-2: día del año de la última obs. (calidad de información; NO usar como predictor),día del año,0.0,False,False,,base_maestra_v3.csv
+cal_ls_n_obs,calidad,,Landsat: observaciones válidas abr-dic 2025 (calidad de información; NO usar como predictor),conteo,0.0,False,False,,base_maestra_v3.csv
+cal_ls_hueco_max_dias,calidad,,Landsat: mayor hueco entre observaciones (calidad de información; NO usar como predictor),días,0.0,False,False,,base_maestra_v3.csv
+cal_ls_nub_media,calidad,,Landsat: nubosidad media (calidad de información; NO usar como predictor),%,0.0,False,False,,base_maestra_v3.csv
+cal_ls_primera,calidad,,Landsat: día del año de la 1a observación (calidad de información; NO usar como predictor),día del año,0.0,False,False,,base_maestra_v3.csv
+cal_ls_ultima,calidad,,Landsat: día del año de la última obs. (calidad de información; NO usar como predictor),día del año,0.0,False,False,,base_maestra_v3.csv
+pl_ndvi_std_pico,fenología,heterogeneidad intra-parcela,"Planet NDVI (Whittaker λ=200): desviación dentro de la parcela, ±20 días del pico (heterogeneidad)",adim.,0.0,True,True,,base_maestra_v3.csv
+pl_ndvi_min_pico,fenología,heterogeneidad intra-parcela,"Planet NDVI (Whittaker λ=200): mínimo dentro de la parcela, ±20 días del pico",adim.,0.0,True,False,,base_maestra_v3.csv
+s2_ndwi_pico,humedad/estrés,humedad / estrés,Sentinel-2 NDWI ±20 días del pico,adim.,0.0,False,False,s2_msi_pico,base_maestra_v3.csv
+s2_msi_pico,humedad/estrés,humedad / estrés,Sentinel-2 MSI ±20 días del pico,adim.,0.0,True,False,,base_maestra_v3.csv
+s2_ndsvi_pico,humedad/estrés,senescencia / radiación,Sentinel-2 NDSVI ±20 días del pico,adim.,0.0,True,False,,base_maestra_v3.csv
+s2_fapar_pico,humedad/estrés,senescencia / radiación,Sentinel-2 FAPAR ±20 días del pico,adim.,0.0,False,False,s2_msi_pico,base_maestra_v3.csv
+s2_ndwi_post30,humedad/estrés,humedad / estrés,Sentinel-2 NDWI ±10 días de pico+30,adim.,0.0,True,False,,base_maestra_v3.csv
+s2_ndvi_std_pico,fenología,heterogeneidad intra-parcela,"Sentinel-2 NDVI (Whittaker λ=200): desviación dentro de la parcela, ±20 días del pico (heterogeneidad)",adim.,0.0,False,False,pl_ndvi_std_pico,base_maestra_v3.csv
+ls_vi6t_media_jul_oct,térmico,térmico (Landsat VI6T),VI6T Landsat medio jul-oct 2025,adim.,0.0,True,False,,base_maestra_v3.csv
+ls_vi6t_min_jul_oct,térmico,térmico (Landsat VI6T),VI6T Landsat mínimo jul-oct 2025,adim.,0.0,True,False,,base_maestra_v3.csv
+hist_ndvi_pico_2022,historial,historial 2022-2024,Pico de NDVI Sentinel-2 en 2022,adim.,0.0,True,False,,base_maestra_v3.csv
+hist_ndvi_pico_2023,historial,historial 2022-2024,Pico de NDVI Sentinel-2 en 2023,adim.,0.0,True,False,,base_maestra_v3.csv
+hist_ndvi_pico_2024,historial,historial 2022-2024,Pico de NDVI Sentinel-2 en 2024,adim.,0.0,True,False,,base_maestra_v3.csv
+hist_ndvi_pico_media,historial,historial 2022-2024,Promedio de los picos de NDVI S2 2022-2024 (potencial histórico),adim.,0.0,True,True,,base_maestra_v3.csv
+hist_ndvi_pico_std,historial,historial 2022-2024,Desviación de los picos 2022-2024 (estabilidad),adim.,0.0,True,False,,base_maestra_v3.csv
+topo_elev_media,topografía,topografía,Elevación media (INEGI CEM),m s.n.m.,0.0,True,True,,base_maestra_v3.csv
+topo_elev_std,topografía,topografía,Desviación de la elevación,m,0.0,True,False,,base_maestra_v3.csv
+topo_pend_media,topografía,topografía,Pendiente media,grados,0.0,False,True,topo_elev_std,base_maestra_v3.csv
+topo_pend_std,topografía,topografía,Desviación de la pendiente,grados,0.0,True,False,,base_maestra_v3.csv
+clim_tmin_siembra_2025,clima,clima,"Tmin media en siembra (45 días antes de la subida), 2025 — rasters CHIRTS-ERA5 / CHIRPS",°C,0.0,True,False,,base_maestra_v3.csv
+clim_tmin_siembra_anom,clima,clima,"Tmin media en siembra (45 días antes de la subida), anomalía 2025 vs promedio 2022-2024 (misma ventana) — rasters CHIRTS-ERA5 / CHIRPS",°C,0.0,True,False,,base_maestra_v3.csv
+clim_tmin_vegetativa_2025,clima,clima,"Tmin media en etapa vegetativa (subida→pico), 2025 — rasters CHIRTS-ERA5 / CHIRPS",°C,0.0,True,False,,base_maestra_v3.csv
+clim_tmin_vegetativa_anom,clima,clima,"Tmin media en etapa vegetativa (subida→pico), anomalía 2025 vs promedio 2022-2024 (misma ventana) — rasters CHIRTS-ERA5 / CHIRPS",°C,0.0,True,False,,base_maestra_v3.csv
+clim_tmin_llenado_2025,clima,clima,"Tmin media en llenado de grano (pico→secado), 2025 — rasters CHIRTS-ERA5 / CHIRPS",°C,0.0,True,True,,base_maestra_v3.csv
+clim_tmin_llenado_anom,clima,clima,"Tmin media en llenado de grano (pico→secado), anomalía 2025 vs promedio 2022-2024 (misma ventana) — rasters CHIRTS-ERA5 / CHIRPS",°C,0.0,True,False,,base_maestra_v3.csv
+clim_tmax_siembra_2025,clima,clima,"Tmax media en siembra (45 días antes de la subida), 2025 — rasters CHIRTS-ERA5 / CHIRPS",°C,0.0,True,False,,base_maestra_v3.csv
+clim_tmax_siembra_anom,clima,clima,"Tmax media en siembra (45 días antes de la subida), anomalía 2025 vs promedio 2022-2024 (misma ventana) — rasters CHIRTS-ERA5 / CHIRPS",°C,0.0,False,False,clim_tmin_vegetativa_anom,base_maestra_v3.csv
+clim_tmax_vegetativa_2025,clima,clima,"Tmax media en etapa vegetativa (subida→pico), 2025 — rasters CHIRTS-ERA5 / CHIRPS",°C,0.0,True,False,,base_maestra_v3.csv
+clim_tmax_vegetativa_anom,clima,clima,"Tmax media en etapa vegetativa (subida→pico), anomalía 2025 vs promedio 2022-2024 (misma ventana) — rasters CHIRTS-ERA5 / CHIRPS",°C,0.0,True,False,,base_maestra_v3.csv
+clim_tmax_llenado_2025,clima,clima,"Tmax media en llenado de grano (pico→secado), 2025 — rasters CHIRTS-ERA5 / CHIRPS",°C,0.0,True,True,,base_maestra_v3.csv
+clim_tmax_llenado_anom,clima,clima,"Tmax media en llenado de grano (pico→secado), anomalía 2025 vs promedio 2022-2024 (misma ventana) — rasters CHIRTS-ERA5 / CHIRPS",°C,0.0,True,True,,base_maestra_v3.csv
+clim_prec_siembra_2025,clima,clima,"precipitación acumulada en siembra (45 días antes de la subida), 2025 — rasters CHIRTS-ERA5 / CHIRPS",mm,0.0,True,False,,base_maestra_v3.csv
+clim_prec_siembra_anom,clima,clima,"precipitación acumulada en siembra (45 días antes de la subida), anomalía 2025 vs promedio 2022-2024 (misma ventana) — rasters CHIRTS-ERA5 / CHIRPS",mm,0.0,False,False,clim_tmin_siembra_anom,base_maestra_v3.csv
+clim_prec_vegetativa_2025,clima,clima,"precipitación acumulada en etapa vegetativa (subida→pico), 2025 — rasters CHIRTS-ERA5 / CHIRPS",mm,0.0,False,True,pl_ndvi_dias_sub_pico,base_maestra_v3.csv
+clim_prec_vegetativa_anom,clima,clima,"precipitación acumulada en etapa vegetativa (subida→pico), anomalía 2025 vs promedio 2022-2024 (misma ventana) — rasters CHIRTS-ERA5 / CHIRPS",mm,0.0,True,False,,base_maestra_v3.csv
+clim_prec_llenado_2025,clima,clima,"precipitación acumulada en llenado de grano (pico→secado), 2025 — rasters CHIRTS-ERA5 / CHIRPS",mm,0.0,True,True,,base_maestra_v3.csv
+clim_prec_llenado_anom,clima,clima,"precipitación acumulada en llenado de grano (pico→secado), anomalía 2025 vs promedio 2022-2024 (misma ventana) — rasters CHIRTS-ERA5 / CHIRPS",mm,0.0,True,True,,base_maestra_v3.csv
+clim_tmed_siembra_2025,clima,clima,"temperatura media (Tmax+Tmin)/2 en siembra (45 días antes de la subida), 2025 — rasters CHIRTS-ERA5 / CHIRPS",°C,0.0,True,False,,base_maestra_v3.csv
+clim_amplitud_siembra_2025,clima,clima,"amplitud térmica Tmax - Tmin en siembra (45 días antes de la subida), 2025 — rasters CHIRTS-ERA5 / CHIRPS",°C,0.0,True,False,,base_maestra_v3.csv
+clim_tmed_vegetativa_2025,clima,clima,"temperatura media (Tmax+Tmin)/2 en etapa vegetativa (subida→pico), 2025 — rasters CHIRTS-ERA5 / CHIRPS",°C,0.0,False,False,clim_tmin_vegetativa_2025,base_maestra_v3.csv
+clim_amplitud_vegetativa_2025,clima,clima,"amplitud térmica Tmax - Tmin en etapa vegetativa (subida→pico), 2025 — rasters CHIRTS-ERA5 / CHIRPS",°C,0.0,True,True,,base_maestra_v3.csv
+clim_tmed_llenado_2025,clima,clima,"temperatura media (Tmax+Tmin)/2 en llenado de grano (pico→secado), 2025 — rasters CHIRTS-ERA5 / CHIRPS",°C,0.0,False,False,clim_tmin_llenado_2025,base_maestra_v3.csv
+clim_amplitud_llenado_2025,clima,clima,"amplitud térmica Tmax - Tmin en llenado de grano (pico→secado), 2025 — rasters CHIRTS-ERA5 / CHIRPS",°C,0.0,True,False,,base_maestra_v3.csv
+pl_ndvi_base,fenología,vigor (NDVI/EVI/MSAVI/LAI),Planet NDVI (Whittaker λ=200): valor típico ene-may 2025 (suelo desnudo),adim.,0.0,True,True,,base_maestra_v3.csv
+pl_ndvi_pico,fenología,vigor (NDVI/EVI/MSAVI/LAI),Planet NDVI (Whittaker λ=200): máximo de la curva suavizada (10 jul-30 nov),adim.,0.0,True,True,,base_maestra_v3.csv
+pl_ndvi_amplitud,fenología,vigor (NDVI/EVI/MSAVI/LAI),Planet NDVI (Whittaker λ=200): pico - base,adim.,0.0,True,False,,base_maestra_v3.csv
+pl_ndvi_auc,fenología,vigor (NDVI/EVI/MSAVI/LAI),Planet NDVI (Whittaker λ=200): área de (valor - base) entre subida y secado,adim.·día,0.0,True,False,,base_maestra_v3.csv
+pl_ndvi_doy_subida,fenología,calendario y forma de la curva,Planet NDVI (Whittaker λ=200): día del año del último cruce ascendente del 50% antes del pico,día del año,0.0,True,True,,base_maestra_v3.csv
+pl_ndvi_doy_pico,fenología,calendario y forma de la curva,Planet NDVI (Whittaker λ=200): día del año del pico,día del año,0.0,True,True,,base_maestra_v3.csv
+pl_ndvi_doy_secado,fenología,calendario y forma de la curva,"Planet NDVI (Whittaker λ=200): día del año del primer cruce descendente del 50% tras el pico; puede caer después de octubre (fuera de la ventana oficial abr-oct): observación posterior, no evidencia anticipada de cosecha; no es regresor del modelo final",día del año,0.0,True,True,,base_maestra_v3.csv
+pl_ndvi_dias_sub_pico,fenología,calendario y forma de la curva,Planet NDVI (Whittaker λ=200): días de la subida al pico,días,0.0,True,False,,base_maestra_v3.csv
+pl_ndvi_duracion,fenología,calendario y forma de la curva,Planet NDVI (Whittaker λ=200): días de la subida al secado,días,0.0,True,False,,base_maestra_v3.csv
+pl_ndvi_post30,fenología,vigor (NDVI/EVI/MSAVI/LAI),Planet NDVI (Whittaker λ=200): valor medio 25-35 días después del pico (llenado de grano),adim.,0.0,True,True,,base_maestra_v3.csv
+pl_ndvi_caida_post30,fenología,vigor (NDVI/EVI/MSAVI/LAI),Planet NDVI (Whittaker λ=200): pico - post30,adim.,0.0,True,False,,base_maestra_v3.csv
+pl_ndvi_vel_subida,fenología,calendario y forma de la curva,Planet NDVI (Whittaker λ=200): velocidad de crecimiento (pico - subida)/días,adim./día,0.0,False,False,pl_ndvi_dias_sub_pico,base_maestra_v3.csv
+pl_ndvi_vel_secado,fenología,calendario y forma de la curva,Planet NDVI (Whittaker λ=200): velocidad de senescencia,adim./día,0.0,True,True,,base_maestra_v3.csv
+pl_ndvi_brote_temprano,fenología,calendario y forma de la curva,Planet NDVI (Whittaker λ=200): máximo 15 jun-15 jul menos base (verdor previo: malezas/barbecho),adim.,0.0,True,False,,base_maestra_v3.csv
+pl_ndvi_joroba1_rel,fenología,calendario y forma de la curva,Planet NDVI (Whittaker λ=200): fuerza del verdor temprano (0-1 de la amplitud),fracción,0.0,True,True,,base_maestra_v3.csv
+pl_ndvi_valle_prof,fenología,calendario y forma de la curva,Planet NDVI (Whittaker λ=200): profundidad del valle de canícula (0-1),fracción,0.0,True,False,,base_maestra_v3.csv
+pl_ndvi_doy_valle,fenología,calendario y forma de la curva,Planet NDVI (Whittaker λ=200): día del año del valle (NaN = no hay valle),día del año,18.0,True,False,,base_maestra_v3.csv
+pl_ndvi_doble_joroba,fenología,calendario y forma de la curva,Planet NDVI (Whittaker λ=200): 1 si hay verdor temprano y valle marcado,0/1,0.0,True,True,,base_maestra_v3.csv
+pl_ndvi_doy_subida_primera,fenología,calendario y forma de la curva,Planet NDVI (Whittaker λ=200): día del año del primer cruce del 50% desde junio,día del año,0.0,True,False,,base_maestra_v3.csv
+pl_ndvi_med_temp,fenología,vigor (NDVI/EVI/MSAVI/LAI),Planet NDVI (Whittaker λ=200): mediana de la curva entre subida y secado,adim.,0.0,False,False,pl_ndvi_pico,base_maestra_v3.csv
+pl_ndvi_min_temp,fenología,vigor (NDVI/EVI/MSAVI/LAI),Planet NDVI (Whittaker λ=200): mínimo de la curva entre subida y secado,adim.,0.0,True,False,,base_maestra_v3.csv
+pl_ndvi_std_temp,fenología,variabilidad en la temporada,Planet NDVI (Whittaker λ=200): desviación estándar de la curva entre subida y secado,adim.,0.0,False,False,pl_ndvi_amplitud,base_maestra_v3.csv
+pl_ndvi_rango_temp,fenología,variabilidad en la temporada,Planet NDVI (Whittaker λ=200): máx - mín de la curva entre subida y secado,adim.,0.0,False,False,pl_ndvi_amplitud,base_maestra_v3.csv
+pl_evi_base,fenología,vigor (NDVI/EVI/MSAVI/LAI),Planet EVI (Whittaker λ=200): valor típico ene-may 2025 (suelo desnudo),adim.,0.0,False,False,pl_msavi_base,base_maestra_v3.csv
+pl_evi_pico,fenología,vigor (NDVI/EVI/MSAVI/LAI),Planet EVI (Whittaker λ=200): máximo de la curva suavizada (10 jul-30 nov),adim.,0.0,False,False,pl_ndvi_pico,base_maestra_v3.csv
+pl_evi_amplitud,fenología,vigor (NDVI/EVI/MSAVI/LAI),Planet EVI (Whittaker λ=200): pico - base,adim.,0.0,False,False,pl_ndvi_pico,base_maestra_v3.csv
+pl_evi_auc,fenología,vigor (NDVI/EVI/MSAVI/LAI),Planet EVI (Whittaker λ=200): área de (valor - base) entre subida y secado,adim.·día,0.0,False,False,pl_ndvi_auc,base_maestra_v3.csv
+pl_evi_doy_subida,fenología,calendario y forma de la curva,Planet EVI (Whittaker λ=200): día del año del último cruce ascendente del 50% antes del pico,día del año,0.0,False,False,pl_ndvi_doy_subida,base_maestra_v3.csv
+pl_evi_doy_pico,fenología,calendario y forma de la curva,Planet EVI (Whittaker λ=200): día del año del pico,día del año,0.0,True,False,,base_maestra_v3.csv
+pl_evi_doy_secado,fenología,calendario y forma de la curva,"Planet EVI (Whittaker λ=200): día del año del primer cruce descendente del 50% tras el pico; puede caer después de octubre (fuera de la ventana oficial abr-oct): observación posterior, no evidencia anticipada de cosecha; no es regresor del modelo final",día del año,0.0,False,False,pl_ndvi_doy_secado,base_maestra_v3.csv
+pl_evi_dias_sub_pico,fenología,calendario y forma de la curva,Planet EVI (Whittaker λ=200): días de la subida al pico,días,0.0,False,False,pl_evi_vel_subida,base_maestra_v3.csv
+pl_evi_duracion,fenología,calendario y forma de la curva,Planet EVI (Whittaker λ=200): días de la subida al secado,días,0.0,False,False,pl_ndvi_duracion,base_maestra_v3.csv
+pl_evi_post30,fenología,vigor (NDVI/EVI/MSAVI/LAI),Planet EVI (Whittaker λ=200): valor medio 25-35 días después del pico (llenado de grano),adim.,0.0,True,False,,base_maestra_v3.csv
+pl_evi_caida_post30,fenología,vigor (NDVI/EVI/MSAVI/LAI),Planet EVI (Whittaker λ=200): pico - post30,adim.,0.0,True,False,,base_maestra_v3.csv
+pl_evi_vel_subida,fenología,calendario y forma de la curva,Planet EVI (Whittaker λ=200): velocidad de crecimiento (pico - subida)/días,adim./día,0.0,True,False,,base_maestra_v3.csv
+pl_evi_vel_secado,fenología,calendario y forma de la curva,Planet EVI (Whittaker λ=200): velocidad de senescencia,adim./día,0.0,True,False,,base_maestra_v3.csv
+pl_evi_brote_temprano,fenología,calendario y forma de la curva,Planet EVI (Whittaker λ=200): máximo 15 jun-15 jul menos base (verdor previo: malezas/barbecho),adim.,0.0,False,False,pl_ndvi_brote_temprano,base_maestra_v3.csv
+pl_evi_joroba1_rel,fenología,calendario y forma de la curva,Planet EVI (Whittaker λ=200): fuerza del verdor temprano (0-1 de la amplitud),fracción,0.0,False,False,pl_ndvi_joroba1_rel,base_maestra_v3.csv
+pl_evi_valle_prof,fenología,calendario y forma de la curva,Planet EVI (Whittaker λ=200): profundidad del valle de canícula (0-1),fracción,0.0,False,False,pl_ndvi_valle_prof,base_maestra_v3.csv
+pl_evi_doy_valle,fenología,calendario y forma de la curva,Planet EVI (Whittaker λ=200): día del año del valle (NaN = no hay valle),día del año,22.0,False,False,pl_msavi_doy_valle,base_maestra_v3.csv
+pl_evi_doble_joroba,fenología,calendario y forma de la curva,Planet EVI (Whittaker λ=200): 1 si hay verdor temprano y valle marcado,0/1,0.0,True,False,,base_maestra_v3.csv
+pl_evi_doy_subida_primera,fenología,calendario y forma de la curva,Planet EVI (Whittaker λ=200): día del año del primer cruce del 50% desde junio,día del año,0.0,False,False,pl_ndvi_doy_subida_primera,base_maestra_v3.csv
+pl_evi_med_temp,fenología,vigor (NDVI/EVI/MSAVI/LAI),Planet EVI (Whittaker λ=200): mediana de la curva entre subida y secado,adim.,0.0,False,False,pl_ndvi_pico,base_maestra_v3.csv
+pl_evi_min_temp,fenología,vigor (NDVI/EVI/MSAVI/LAI),Planet EVI (Whittaker λ=200): mínimo de la curva entre subida y secado,adim.,0.0,False,False,pl_ndvi_pico,base_maestra_v3.csv
+pl_evi_std_temp,fenología,variabilidad en la temporada,Planet EVI (Whittaker λ=200): desviación estándar de la curva entre subida y secado,adim.,0.0,False,False,pl_ndvi_pico,base_maestra_v3.csv
+pl_evi_rango_temp,fenología,variabilidad en la temporada,Planet EVI (Whittaker λ=200): máx - mín de la curva entre subida y secado,adim.,0.0,False,False,pl_ndvi_pico,base_maestra_v3.csv
+pl_msavi_base,fenología,vigor (NDVI/EVI/MSAVI/LAI),Planet MSAVI (Whittaker λ=200): valor típico ene-may 2025 (suelo desnudo),adim.,0.0,True,False,,base_maestra_v3.csv
+pl_msavi_pico,fenología,vigor (NDVI/EVI/MSAVI/LAI),Planet MSAVI (Whittaker λ=200): máximo de la curva suavizada (10 jul-30 nov),adim.,0.0,False,False,pl_ndvi_pico,base_maestra_v3.csv
+pl_msavi_amplitud,fenología,vigor (NDVI/EVI/MSAVI/LAI),Planet MSAVI (Whittaker λ=200): pico - base,adim.,0.0,False,False,pl_ndvi_pico,base_maestra_v3.csv
+pl_msavi_auc,fenología,vigor (NDVI/EVI/MSAVI/LAI),Planet MSAVI (Whittaker λ=200): área de (valor - base) entre subida y secado,adim.·día,0.0,False,False,pl_ndvi_auc,base_maestra_v3.csv
+pl_msavi_doy_subida,fenología,calendario y forma de la curva,Planet MSAVI (Whittaker λ=200): día del año del último cruce ascendente del 50% antes del pico,día del año,0.0,False,False,pl_ndvi_doy_subida,base_maestra_v3.csv
+pl_msavi_doy_pico,fenología,calendario y forma de la curva,Planet MSAVI (Whittaker λ=200): día del año del pico,día del año,0.0,False,False,pl_evi_doy_pico,base_maestra_v3.csv
+pl_msavi_doy_secado,fenología,calendario y forma de la curva,"Planet MSAVI (Whittaker λ=200): día del año del primer cruce descendente del 50% tras el pico; puede caer después de octubre (fuera de la ventana oficial abr-oct): observación posterior, no evidencia anticipada de cosecha; no es regresor del modelo final",día del año,0.0,False,False,pl_ndvi_doy_secado,base_maestra_v3.csv
+pl_msavi_dias_sub_pico,fenología,calendario y forma de la curva,Planet MSAVI (Whittaker λ=200): días de la subida al pico,días,0.0,False,False,pl_evi_vel_subida,base_maestra_v3.csv
+pl_msavi_duracion,fenología,calendario y forma de la curva,Planet MSAVI (Whittaker λ=200): días de la subida al secado,días,0.0,False,False,pl_ndvi_duracion,base_maestra_v3.csv
+pl_msavi_post30,fenología,vigor (NDVI/EVI/MSAVI/LAI),Planet MSAVI (Whittaker λ=200): valor medio 25-35 días después del pico (llenado de grano),adim.,0.0,False,False,pl_evi_post30,base_maestra_v3.csv
+pl_msavi_caida_post30,fenología,vigor (NDVI/EVI/MSAVI/LAI),Planet MSAVI (Whittaker λ=200): pico - post30,adim.,0.0,True,False,,base_maestra_v3.csv
+pl_msavi_vel_subida,fenología,calendario y forma de la curva,Planet MSAVI (Whittaker λ=200): velocidad de crecimiento (pico - subida)/días,adim./día,0.0,False,False,pl_evi_vel_subida,base_maestra_v3.csv
+pl_msavi_vel_secado,fenología,calendario y forma de la curva,Planet MSAVI (Whittaker λ=200): velocidad de senescencia,adim./día,0.0,False,False,pl_evi_vel_secado,base_maestra_v3.csv
+pl_msavi_brote_temprano,fenología,calendario y forma de la curva,Planet MSAVI (Whittaker λ=200): máximo 15 jun-15 jul menos base (verdor previo: malezas/barbecho),adim.,0.0,False,False,pl_ndvi_brote_temprano,base_maestra_v3.csv
+pl_msavi_joroba1_rel,fenología,calendario y forma de la curva,Planet MSAVI (Whittaker λ=200): fuerza del verdor temprano (0-1 de la amplitud),fracción,0.0,False,False,pl_ndvi_joroba1_rel,base_maestra_v3.csv
+pl_msavi_valle_prof,fenología,calendario y forma de la curva,Planet MSAVI (Whittaker λ=200): profundidad del valle de canícula (0-1),fracción,0.0,False,False,pl_ndvi_valle_prof,base_maestra_v3.csv
+pl_msavi_doy_valle,fenología,calendario y forma de la curva,Planet MSAVI (Whittaker λ=200): día del año del valle (NaN = no hay valle),día del año,21.0,True,False,,base_maestra_v3.csv
+pl_msavi_doble_joroba,fenología,calendario y forma de la curva,Planet MSAVI (Whittaker λ=200): 1 si hay verdor temprano y valle marcado,0/1,0.0,False,False,pl_evi_doble_joroba,base_maestra_v3.csv
+pl_msavi_doy_subida_primera,fenología,calendario y forma de la curva,Planet MSAVI (Whittaker λ=200): día del año del primer cruce del 50% desde junio,día del año,0.0,False,False,pl_ndvi_doy_subida_primera,base_maestra_v3.csv
+pl_msavi_med_temp,fenología,vigor (NDVI/EVI/MSAVI/LAI),Planet MSAVI (Whittaker λ=200): mediana de la curva entre subida y secado,adim.,0.0,False,False,pl_ndvi_pico,base_maestra_v3.csv
+pl_msavi_min_temp,fenología,vigor (NDVI/EVI/MSAVI/LAI),Planet MSAVI (Whittaker λ=200): mínimo de la curva entre subida y secado,adim.,0.0,False,False,pl_ndvi_pico,base_maestra_v3.csv
+pl_msavi_std_temp,fenología,variabilidad en la temporada,Planet MSAVI (Whittaker λ=200): desviación estándar de la curva entre subida y secado,adim.,0.0,False,False,pl_ndvi_pico,base_maestra_v3.csv
+pl_msavi_rango_temp,fenología,variabilidad en la temporada,Planet MSAVI (Whittaker λ=200): máx - mín de la curva entre subida y secado,adim.,0.0,False,False,pl_ndvi_pico,base_maestra_v3.csv
+pl_lai_base,fenología,vigor (NDVI/EVI/MSAVI/LAI),Planet LAI (Whittaker λ=200): valor típico ene-may 2025 (suelo desnudo),adim.,0.0,False,False,pl_ndvi_base,base_maestra_v3.csv
+pl_lai_pico,fenología,vigor (NDVI/EVI/MSAVI/LAI),Planet LAI (Whittaker λ=200): máximo de la curva suavizada (10 jul-30 nov),adim.,0.0,True,False,,base_maestra_v3.csv
+pl_lai_amplitud,fenología,vigor (NDVI/EVI/MSAVI/LAI),Planet LAI (Whittaker λ=200): pico - base,adim.,0.0,True,False,,base_maestra_v3.csv
+pl_lai_auc,fenología,vigor (NDVI/EVI/MSAVI/LAI),Planet LAI (Whittaker λ=200): área de (valor - base) entre subida y secado,adim.·día,0.0,True,False,,base_maestra_v3.csv
+pl_lai_doy_subida,fenología,calendario y forma de la curva,Planet LAI (Whittaker λ=200): día del año del último cruce ascendente del 50% antes del pico,día del año,0.0,False,False,pl_ndvi_doy_subida,base_maestra_v3.csv
+pl_lai_doy_pico,fenología,calendario y forma de la curva,Planet LAI (Whittaker λ=200): día del año del pico,día del año,0.0,False,False,pl_ndvi_doy_pico,base_maestra_v3.csv
+pl_lai_doy_secado,fenología,calendario y forma de la curva,"Planet LAI (Whittaker λ=200): día del año del primer cruce descendente del 50% tras el pico; puede caer después de octubre (fuera de la ventana oficial abr-oct): observación posterior, no evidencia anticipada de cosecha; no es regresor del modelo final",día del año,0.0,False,False,pl_ndvi_doy_secado,base_maestra_v3.csv
+pl_lai_dias_sub_pico,fenología,calendario y forma de la curva,Planet LAI (Whittaker λ=200): días de la subida al pico,días,0.0,True,False,,base_maestra_v3.csv
+pl_lai_duracion,fenología,calendario y forma de la curva,Planet LAI (Whittaker λ=200): días de la subida al secado,días,0.0,False,False,pl_ndvi_duracion,base_maestra_v3.csv
+pl_lai_post30,fenología,vigor (NDVI/EVI/MSAVI/LAI),Planet LAI (Whittaker λ=200): valor medio 25-35 días después del pico (llenado de grano),adim.,0.0,True,False,,base_maestra_v3.csv
+pl_lai_caida_post30,fenología,vigor (NDVI/EVI/MSAVI/LAI),Planet LAI (Whittaker λ=200): pico - post30,adim.,0.0,True,False,,base_maestra_v3.csv
+pl_lai_vel_subida,fenología,calendario y forma de la curva,Planet LAI (Whittaker λ=200): velocidad de crecimiento (pico - subida)/días,adim./día,0.0,False,False,pl_lai_dias_sub_pico,base_maestra_v3.csv
+pl_lai_vel_secado,fenología,calendario y forma de la curva,Planet LAI (Whittaker λ=200): velocidad de senescencia,adim./día,0.0,True,False,,base_maestra_v3.csv
+pl_lai_brote_temprano,fenología,calendario y forma de la curva,Planet LAI (Whittaker λ=200): máximo 15 jun-15 jul menos base (verdor previo: malezas/barbecho),adim.,0.0,False,False,pl_ndvi_brote_temprano,base_maestra_v3.csv
+pl_lai_joroba1_rel,fenología,calendario y forma de la curva,Planet LAI (Whittaker λ=200): fuerza del verdor temprano (0-1 de la amplitud),fracción,0.0,False,False,pl_ndvi_joroba1_rel,base_maestra_v3.csv
+pl_lai_valle_prof,fenología,calendario y forma de la curva,Planet LAI (Whittaker λ=200): profundidad del valle de canícula (0-1),fracción,0.0,True,False,,base_maestra_v3.csv
+pl_lai_doy_valle,fenología,calendario y forma de la curva,Planet LAI (Whittaker λ=200): día del año del valle (NaN = no hay valle),día del año,0.0,True,False,,base_maestra_v3.csv
+pl_lai_doble_joroba,fenología,calendario y forma de la curva,Planet LAI (Whittaker λ=200): 1 si hay verdor temprano y valle marcado,0/1,0.0,True,False,,base_maestra_v3.csv
+pl_lai_doy_subida_primera,fenología,calendario y forma de la curva,Planet LAI (Whittaker λ=200): día del año del primer cruce del 50% desde junio,día del año,0.0,False,False,pl_ndvi_doy_subida_primera,base_maestra_v3.csv
+pl_lai_med_temp,fenología,vigor (NDVI/EVI/MSAVI/LAI),Planet LAI (Whittaker λ=200): mediana de la curva entre subida y secado,adim.,0.0,False,False,pl_ndvi_pico,base_maestra_v3.csv
+pl_lai_min_temp,fenología,vigor (NDVI/EVI/MSAVI/LAI),Planet LAI (Whittaker λ=200): mínimo de la curva entre subida y secado,adim.,0.0,False,False,pl_lai_pico,base_maestra_v3.csv
+pl_lai_std_temp,fenología,variabilidad en la temporada,Planet LAI (Whittaker λ=200): desviación estándar de la curva entre subida y secado,adim.,0.0,False,False,pl_lai_amplitud,base_maestra_v3.csv
+pl_lai_rango_temp,fenología,variabilidad en la temporada,Planet LAI (Whittaker λ=200): máx - mín de la curva entre subida y secado,adim.,0.0,False,False,pl_lai_amplitud,base_maestra_v3.csv
+s2_ndvi_base,fenología,vigor (NDVI/EVI/MSAVI/LAI),Sentinel-2 NDVI (Whittaker λ=200): valor típico ene-may 2025 (suelo desnudo),adim.,0.0,False,False,pl_msavi_base,base_maestra_v3.csv
+s2_ndvi_pico,fenología,vigor (NDVI/EVI/MSAVI/LAI),Sentinel-2 NDVI (Whittaker λ=200): máximo de la curva suavizada (10 jul-30 nov),adim.,0.0,False,False,pl_ndvi_pico,base_maestra_v3.csv
+s2_ndvi_amplitud,fenología,vigor (NDVI/EVI/MSAVI/LAI),Sentinel-2 NDVI (Whittaker λ=200): pico - base,adim.,0.0,False,False,pl_ndvi_amplitud,base_maestra_v3.csv
+s2_ndvi_auc,fenología,vigor (NDVI/EVI/MSAVI/LAI),Sentinel-2 NDVI (Whittaker λ=200): área de (valor - base) entre subida y secado,adim.·día,0.0,False,False,pl_ndvi_auc,base_maestra_v3.csv
+s2_ndvi_doy_subida,fenología,calendario y forma de la curva,Sentinel-2 NDVI (Whittaker λ=200): día del año del último cruce ascendente del 50% antes del pico,día del año,0.0,False,False,pl_ndvi_doy_subida,base_maestra_v3.csv
+s2_ndvi_doy_pico,fenología,calendario y forma de la curva,Sentinel-2 NDVI (Whittaker λ=200): día del año del pico,día del año,0.0,True,False,,base_maestra_v3.csv
+s2_ndvi_doy_secado,fenología,calendario y forma de la curva,"Sentinel-2 NDVI (Whittaker λ=200): día del año del primer cruce descendente del 50% tras el pico; puede caer después de octubre (fuera de la ventana oficial abr-oct): observación posterior, no evidencia anticipada de cosecha; no es regresor del modelo final",día del año,0.0,False,False,pl_ndvi_doy_secado,base_maestra_v3.csv
+s2_ndvi_dias_sub_pico,fenología,calendario y forma de la curva,Sentinel-2 NDVI (Whittaker λ=200): días de la subida al pico,días,0.0,True,False,,base_maestra_v3.csv
+s2_ndvi_duracion,fenología,calendario y forma de la curva,Sentinel-2 NDVI (Whittaker λ=200): días de la subida al secado,días,0.0,False,False,pl_ndvi_duracion,base_maestra_v3.csv
+s2_ndvi_post30,fenología,vigor (NDVI/EVI/MSAVI/LAI),Sentinel-2 NDVI (Whittaker λ=200): valor medio 25-35 días después del pico (llenado de grano),adim.,0.0,True,False,,base_maestra_v3.csv
+s2_ndvi_caida_post30,fenología,vigor (NDVI/EVI/MSAVI/LAI),Sentinel-2 NDVI (Whittaker λ=200): pico - post30,adim.,0.0,True,False,,base_maestra_v3.csv
+s2_ndvi_vel_subida,fenología,calendario y forma de la curva,Sentinel-2 NDVI (Whittaker λ=200): velocidad de crecimiento (pico - subida)/días,adim./día,0.0,False,False,s2_ndvi_dias_sub_pico,base_maestra_v3.csv
+s2_ndvi_vel_secado,fenología,calendario y forma de la curva,Sentinel-2 NDVI (Whittaker λ=200): velocidad de senescencia,adim./día,0.0,True,False,,base_maestra_v3.csv
+s2_ndvi_brote_temprano,fenología,calendario y forma de la curva,Sentinel-2 NDVI (Whittaker λ=200): máximo 15 jun-15 jul menos base (verdor previo: malezas/barbecho),adim.,0.0,True,False,,base_maestra_v3.csv
+s2_ndvi_joroba1_rel,fenología,calendario y forma de la curva,Sentinel-2 NDVI (Whittaker λ=200): fuerza del verdor temprano (0-1 de la amplitud),fracción,0.0,False,False,pl_ndvi_joroba1_rel,base_maestra_v3.csv
+s2_ndvi_valle_prof,fenología,calendario y forma de la curva,Sentinel-2 NDVI (Whittaker λ=200): profundidad del valle de canícula (0-1),fracción,0.0,True,False,,base_maestra_v3.csv
+s2_ndvi_doy_valle,fenología,calendario y forma de la curva,Sentinel-2 NDVI (Whittaker λ=200): día del año del valle (NaN = no hay valle),día del año,15.0,True,False,,base_maestra_v3.csv
+s2_ndvi_doble_joroba,fenología,calendario y forma de la curva,Sentinel-2 NDVI (Whittaker λ=200): 1 si hay verdor temprano y valle marcado,0/1,0.0,True,False,,base_maestra_v3.csv
+s2_ndvi_doy_subida_primera,fenología,calendario y forma de la curva,Sentinel-2 NDVI (Whittaker λ=200): día del año del primer cruce del 50% desde junio,día del año,0.0,True,False,,base_maestra_v3.csv
+s2_ndvi_med_temp,fenología,vigor (NDVI/EVI/MSAVI/LAI),Sentinel-2 NDVI (Whittaker λ=200): mediana de la curva entre subida y secado,adim.,0.0,False,False,pl_ndvi_pico,base_maestra_v3.csv
+s2_ndvi_min_temp,fenología,vigor (NDVI/EVI/MSAVI/LAI),Sentinel-2 NDVI (Whittaker λ=200): mínimo de la curva entre subida y secado,adim.,0.0,False,False,pl_ndvi_min_temp,base_maestra_v3.csv
+s2_ndvi_std_temp,fenología,variabilidad en la temporada,Sentinel-2 NDVI (Whittaker λ=200): desviación estándar de la curva entre subida y secado,adim.,0.0,False,False,pl_ndvi_amplitud,base_maestra_v3.csv
+s2_ndvi_rango_temp,fenología,variabilidad en la temporada,Sentinel-2 NDVI (Whittaker λ=200): máx - mín de la curva entre subida y secado,adim.,0.0,False,False,pl_ndvi_amplitud,base_maestra_v3.csv
+s2_evi_base,fenología,vigor (NDVI/EVI/MSAVI/LAI),Sentinel-2 EVI (Whittaker λ=200): valor típico ene-may 2025 (suelo desnudo),adim.,0.0,False,False,pl_msavi_base,base_maestra_v3.csv
+s2_evi_pico,fenología,vigor (NDVI/EVI/MSAVI/LAI),Sentinel-2 EVI (Whittaker λ=200): máximo de la curva suavizada (10 jul-30 nov),adim.,0.0,False,False,pl_ndvi_pico,base_maestra_v3.csv
+s2_evi_amplitud,fenología,vigor (NDVI/EVI/MSAVI/LAI),Sentinel-2 EVI (Whittaker λ=200): pico - base,adim.,0.0,False,False,pl_ndvi_pico,base_maestra_v3.csv
+s2_evi_auc,fenología,vigor (NDVI/EVI/MSAVI/LAI),Sentinel-2 EVI (Whittaker λ=200): área de (valor - base) entre subida y secado,adim.·día,0.0,False,False,pl_ndvi_auc,base_maestra_v3.csv
+s2_evi_doy_subida,fenología,calendario y forma de la curva,Sentinel-2 EVI (Whittaker λ=200): día del año del último cruce ascendente del 50% antes del pico,día del año,0.0,False,False,pl_ndvi_doy_subida,base_maestra_v3.csv
+s2_evi_doy_pico,fenología,calendario y forma de la curva,Sentinel-2 EVI (Whittaker λ=200): día del año del pico,día del año,0.0,False,False,s2_ndvi_doy_pico,base_maestra_v3.csv
+s2_evi_doy_secado,fenología,calendario y forma de la curva,"Sentinel-2 EVI (Whittaker λ=200): día del año del primer cruce descendente del 50% tras el pico; puede caer después de octubre (fuera de la ventana oficial abr-oct): observación posterior, no evidencia anticipada de cosecha; no es regresor del modelo final",día del año,0.0,False,False,pl_ndvi_doy_secado,base_maestra_v3.csv
+s2_evi_dias_sub_pico,fenología,calendario y forma de la curva,Sentinel-2 EVI (Whittaker λ=200): días de la subida al pico,días,0.0,True,False,,base_maestra_v3.csv
+s2_evi_duracion,fenología,calendario y forma de la curva,Sentinel-2 EVI (Whittaker λ=200): días de la subida al secado,días,0.0,False,False,pl_ndvi_duracion,base_maestra_v3.csv
+s2_evi_post30,fenología,vigor (NDVI/EVI/MSAVI/LAI),Sentinel-2 EVI (Whittaker λ=200): valor medio 25-35 días después del pico (llenado de grano),adim.,0.0,True,False,,base_maestra_v3.csv
+s2_evi_caida_post30,fenología,vigor (NDVI/EVI/MSAVI/LAI),Sentinel-2 EVI (Whittaker λ=200): pico - post30,adim.,0.0,True,False,,base_maestra_v3.csv
+s2_evi_vel_subida,fenología,calendario y forma de la curva,Sentinel-2 EVI (Whittaker λ=200): velocidad de crecimiento (pico - subida)/días,adim./día,0.0,False,False,s2_evi_dias_sub_pico,base_maestra_v3.csv
+s2_evi_vel_secado,fenología,calendario y forma de la curva,Sentinel-2 EVI (Whittaker λ=200): velocidad de senescencia,adim./día,0.0,True,False,,base_maestra_v3.csv
+s2_evi_brote_temprano,fenología,calendario y forma de la curva,Sentinel-2 EVI (Whittaker λ=200): máximo 15 jun-15 jul menos base (verdor previo: malezas/barbecho),adim.,0.0,False,False,s2_ndvi_brote_temprano,base_maestra_v3.csv
+s2_evi_joroba1_rel,fenología,calendario y forma de la curva,Sentinel-2 EVI (Whittaker λ=200): fuerza del verdor temprano (0-1 de la amplitud),fracción,0.0,False,False,pl_ndvi_joroba1_rel,base_maestra_v3.csv
+s2_evi_valle_prof,fenología,calendario y forma de la curva,Sentinel-2 EVI (Whittaker λ=200): profundidad del valle de canícula (0-1),fracción,0.0,True,False,,base_maestra_v3.csv
+s2_evi_doy_valle,fenología,calendario y forma de la curva,Sentinel-2 EVI (Whittaker λ=200): día del año del valle (NaN = no hay valle),día del año,28.0,True,False,,base_maestra_v3.csv
+s2_evi_doble_joroba,fenología,calendario y forma de la curva,Sentinel-2 EVI (Whittaker λ=200): 1 si hay verdor temprano y valle marcado,0/1,0.0,True,False,,base_maestra_v3.csv
+s2_evi_doy_subida_primera,fenología,calendario y forma de la curva,Sentinel-2 EVI (Whittaker λ=200): día del año del primer cruce del 50% desde junio,día del año,0.0,False,False,s2_ndvi_doy_subida_primera,base_maestra_v3.csv
+s2_evi_med_temp,fenología,vigor (NDVI/EVI/MSAVI/LAI),Sentinel-2 EVI (Whittaker λ=200): mediana de la curva entre subida y secado,adim.,0.0,False,False,pl_ndvi_pico,base_maestra_v3.csv
+s2_evi_min_temp,fenología,vigor (NDVI/EVI/MSAVI/LAI),Sentinel-2 EVI (Whittaker λ=200): mínimo de la curva entre subida y secado,adim.,0.0,False,False,pl_ndvi_pico,base_maestra_v3.csv
+s2_evi_std_temp,fenología,variabilidad en la temporada,Sentinel-2 EVI (Whittaker λ=200): desviación estándar de la curva entre subida y secado,adim.,0.0,False,False,pl_ndvi_pico,base_maestra_v3.csv
+s2_evi_rango_temp,fenología,variabilidad en la temporada,Sentinel-2 EVI (Whittaker λ=200): máx - mín de la curva entre subida y secado,adim.,0.0,False,False,pl_ndvi_pico,base_maestra_v3.csv
+s2_ndwi_media_veg,humedad/estrés,humedad / estrés,Sentinel-2 NDWI: media en etapa vegetativa (subida→pico) (NaN si <3 imágenes),adim.,24.0,True,True,,base_maestra_v3.csv
+s2_msi_media_veg,humedad/estrés,humedad / estrés,Sentinel-2 MSI: media en etapa vegetativa (subida→pico) (NaN si <3 imágenes),adim.,24.0,False,False,s2_ndwi_media_veg,base_maestra_v3.csv
+s2_ndsvi_media_veg,humedad/estrés,senescencia / radiación,Sentinel-2 NDSVI: media en etapa vegetativa (subida→pico) (NaN si <3 imágenes),adim.,24.0,False,False,s2_ndsvi_pico,base_maestra_v3.csv
+s2_ndvi_media_veg,humedad/estrés,vigor (NDVI/EVI/MSAVI/LAI),Sentinel-2 NDVI: media en etapa vegetativa (subida→pico) (NaN si <3 imágenes),adim.,24.0,True,False,,base_maestra_v3.csv
+s2_ndwi_min_veg,humedad/estrés,humedad / estrés,Sentinel-2 NDWI: min en etapa vegetativa (subida→pico) (NaN si <3 imágenes),adim.,24.0,True,False,,base_maestra_v3.csv
+s2_msi_max_veg,humedad/estrés,humedad / estrés,Sentinel-2 MSI: max en etapa vegetativa (subida→pico) (NaN si <3 imágenes),adim.,24.0,False,False,s2_ndwi_min_veg,base_maestra_v3.csv
+s2_ndwi_media_llen,humedad/estrés,humedad / estrés,Sentinel-2 NDWI: media en llenado de grano (pico→secado) (NaN si <3 imágenes),adim.,0.0,False,False,s2_ndvi_media_llen,base_maestra_v3.csv
+s2_msi_media_llen,humedad/estrés,humedad / estrés,Sentinel-2 MSI: media en llenado de grano (pico→secado) (NaN si <3 imágenes),adim.,0.0,False,False,s2_ndvi_media_llen,base_maestra_v3.csv
+s2_ndsvi_media_llen,humedad/estrés,senescencia / radiación,Sentinel-2 NDSVI: media en llenado de grano (pico→secado) (NaN si <3 imágenes),adim.,0.0,True,True,,base_maestra_v3.csv
+s2_ndvi_media_llen,humedad/estrés,vigor (NDVI/EVI/MSAVI/LAI),Sentinel-2 NDVI: media en llenado de grano (pico→secado) (NaN si <3 imágenes),adim.,0.0,True,False,,base_maestra_v3.csv
+s2_ndwi_min_llen,humedad/estrés,humedad / estrés,Sentinel-2 NDWI: min en llenado de grano (pico→secado) (NaN si <3 imágenes),adim.,0.0,True,True,,base_maestra_v3.csv
+s2_msi_max_llen,humedad/estrés,humedad / estrés,Sentinel-2 MSI: max en llenado de grano (pico→secado) (NaN si <3 imágenes),adim.,0.0,False,False,s2_ndwi_min_llen,base_maestra_v3.csv
+s2_ndwi_media_canic,humedad/estrés,humedad / estrés,Sentinel-2 NDWI: media en canícula (11 jul-31 ago) (NaN si <3 imágenes),adim.,0.0,False,False,s2_ndvi_media_canic,base_maestra_v3.csv
+s2_msi_media_canic,humedad/estrés,humedad / estrés,Sentinel-2 MSI: media en canícula (11 jul-31 ago) (NaN si <3 imágenes),adim.,0.0,False,False,s2_ndvi_media_canic,base_maestra_v3.csv
+s2_ndsvi_media_canic,humedad/estrés,senescencia / radiación,Sentinel-2 NDSVI: media en canícula (11 jul-31 ago) (NaN si <3 imágenes),adim.,0.0,True,False,,base_maestra_v3.csv
+s2_ndvi_media_canic,humedad/estrés,vigor (NDVI/EVI/MSAVI/LAI),Sentinel-2 NDVI: media en canícula (11 jul-31 ago) (NaN si <3 imágenes),adim.,0.0,True,False,,base_maestra_v3.csv
+s2_ndwi_min_canic,humedad/estrés,humedad / estrés,Sentinel-2 NDWI: min en canícula (11 jul-31 ago) (NaN si <3 imágenes),adim.,0.0,False,False,s2_ndvi_media_canic,base_maestra_v3.csv
+s2_msi_max_canic,humedad/estrés,humedad / estrés,Sentinel-2 MSI: max en canícula (11 jul-31 ago) (NaN si <3 imágenes),adim.,0.0,False,False,s2_ndvi_media_canic,base_maestra_v3.csv
+int_ndvipico_x_prec_veg,interacción,interacciones vegetación × lluvia,Interacción: producto de valores estandarizados (z) de ndvipico × prec veg,z·z,0.0,True,False,,base_maestra_v3.csv
+int_ndvipost30_x_prec_llen,interacción,interacciones vegetación × lluvia,Interacción: producto de valores estandarizados (z) de ndvipost30 × prec llen,z·z,0.0,True,False,,base_maestra_v3.csv
+int_ndwi_veg_x_prec_veg,interacción,interacciones vegetación × lluvia,Interacción: producto de valores estandarizados (z) de ndwi veg × prec veg,z·z,24.0,True,False,,base_maestra_v3.csv
+int_ndwi_llen_x_prec_llen,interacción,interacciones vegetación × lluvia,Interacción: producto de valores estandarizados (z) de ndwi llen × prec llen,z·z,0.0,True,False,,base_maestra_v3.csv
+int_auc_x_prec_temp,interacción,interacciones vegetación × lluvia,Interacción: producto de valores estandarizados (z) de auc × prec temp,z·z,0.0,True,False,,base_maestra_v3.csv
+corte,predicción temprana,,"fecha de corte: 01jul, 01ago, 01sep, 01oct, 01nov o final (solo información anterior al corte)",texto,,,,,datasets_tempranos/temprano_*.csv
+t_ndvi_base,predicción temprana,,NDVI Planet base ene-may (solo información anterior al corte),adim.,,,,,datasets_tempranos/temprano_*.csv
+t_ndvi_actual,predicción temprana,,NDVI suavizado en la fecha de corte (solo información anterior al corte),adim.,,,,,datasets_tempranos/temprano_*.csv
+t_ndvi_max,predicción temprana,,NDVI máximo desde 1 jun hasta el corte (solo información anterior al corte),adim.,,,,,datasets_tempranos/temprano_*.csv
+t_ndvi_doy_max,predicción temprana,,día del año de ese máximo (solo información anterior al corte),día del año,,,,,datasets_tempranos/temprano_*.csv
+t_ndvi_amplitud,predicción temprana,,máximo - base hasta el corte (solo información anterior al corte),adim.,,,,,datasets_tempranos/temprano_*.csv
+t_ndvi_auc,predicción temprana,,área de (NDVI - base) desde 1 jun hasta el corte (solo información anterior al corte),adim.·día,,,,,datasets_tempranos/temprano_*.csv
+t_ndvi_pend30,predicción temprana,,cambio diario del NDVI en los 30 días previos al corte (solo información anterior al corte),adim./día,,,,,datasets_tempranos/temprano_*.csv
+t_ndvi_doy_arranque,predicción temprana,,día en que el NDVI supera base+0.15 (NaN si aún no) (solo información anterior al corte),día del año,,,,,datasets_tempranos/temprano_*.csv
+t_ndvi_arranco,predicción temprana,,1 si el cultivo ya arrancó (solo información anterior al corte),0/1,,,,,datasets_tempranos/temprano_*.csv
+t_dias_desde_arranque,predicción temprana,,días desde el arranque hasta el corte (solo información anterior al corte),días,,,,,datasets_tempranos/temprano_*.csv
+t_n_obs_planet,predicción temprana,,imágenes Planet válidas desde 1 jun (solo información anterior al corte),conteo,,,,,datasets_tempranos/temprano_*.csv
+t_ndwi_ult30,predicción temprana,,NDWI S2 medio de los 30 días previos al corte (solo información anterior al corte),adim.,,,,,datasets_tempranos/temprano_*.csv
+t_ndwi_media_temp,predicción temprana,,NDWI S2 medio desde 1 jun (solo información anterior al corte),adim.,,,,,datasets_tempranos/temprano_*.csv
+t_prec_acum_may,predicción temprana,,lluvia acumulada desde 1 may (meses completos) (solo información anterior al corte),mm,,,,,datasets_tempranos/temprano_*.csv
+t_prec_anom_may,predicción temprana,,anomalía de esa lluvia vs 2022-2024 (solo información anterior al corte),mm,,,,,datasets_tempranos/temprano_*.csv
+t_tmax_media_may,predicción temprana,,Tmax media desde 1 may (solo información anterior al corte),°C,,,,,datasets_tempranos/temprano_*.csv
+t_tmax_anom_may,predicción temprana,,anomalía de Tmax vs 2022-2024 (solo información anterior al corte),°C,,,,,datasets_tempranos/temprano_*.csv
+t_tmin_media_may,predicción temprana,,Tmin media desde 1 may (solo información anterior al corte),°C,,,,,datasets_tempranos/temprano_*.csv
+t_tmin_anom_may,predicción temprana,,anomalía de Tmin vs 2022-2024 (solo información anterior al corte),°C,,,,,datasets_tempranos/temprano_*.csv

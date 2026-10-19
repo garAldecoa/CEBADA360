@@ -1,0 +1,7 @@
+escenario,precio,costo_ha,rend_minimo_pago_t_ha,insuf_sin_modelo_pct,insuf_con_modelo_pct,brecha_sin_modelo_pct,brecha_con_modelo_pct,las_59_con_credito_reducido
+Base,7500.0,20977,2.95,10.1,7.2,2.49,1.1,22
+"Precio −20 % (6,000; grano castigado)",6000.0,20977,3.69,40.6,10.1,8.98,1.71,23
+"Precio +20 % (9,000)",9000.0,20977,2.46,1.4,1.4,0.38,0.38,14
+"Precio FIRA (7,866)",7866.0,20977,2.81,10.1,7.2,1.92,1.04,22
+Costo +20 %,7500.0,25172,3.54,38.4,8.0,7.33,1.55,22
+Costo −20 %,7500.0,16782,2.36,1.4,1.4,0.29,0.29,1

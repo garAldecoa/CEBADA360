@@ -1,0 +1,44 @@
+CEBADA360 · VERIFICACIÓN FINAL · 2026-10-14 15:53
+Entrega: predicciones_59_entrega.csv · SHA-256 21955b71fdb306a17d793aafee8eac6f223e7485287001f7d68fe48be303243c
+Referencia: 21955b71fdb306a17d793aafee8eac6f223e7485287001f7d68fe48be303243c
+
+                                                                               verificacion resultado                                          detalle
+                                                  Huella SHA-256 de la entrega = referencia        OK 21955b71fdb306a1… (referencia 21955b71fdb306a1…)
+                                            Las 59 son las parcelas oficiales de PREDICCION        OK                                         59 filas
+                                                    RMSE de validación del ensamble = 0.494        OK                                           0.4940
+                                                    MAE de validación del ensamble = 0.3381        OK                                           0.3381
+                                                     R2 de validación del ensamble = 0.6607        OK                                           0.6607
+                                                      modelo.joblib abre y reproduce las 59        OK                      diferencia máx 0.0e+00 t/ha
+                                 cargar_o_reentrenar() (la que usa la app) reproduce las 59        OK                            origen: modelo.joblib
+                                                     Reentrenar desde cero reproduce las 59        OK                      diferencia máx 0.0e+00 t/ha
+                                predecir() con respaldo de reentrenamiento reproduce las 59        OK                                                 
+                                                 RMSE RECALCULADO desde cero (10×5) = 0.494        OK                                           0.4940
+                                                 MAE RECALCULADO desde cero (10×5) = 0.3381        OK                                           0.3381
+                                                  R2 RECALCULADO desde cero (10×5) = 0.6607        OK                                           0.6607
+                           tabla oficial: 197 ID únicos (138 entrenamiento + 59 predicción)        OK                                                 
+                        base_maestra_v3.csv: 197 ID únicos y los mismos de la tabla oficial        OK                            197 filas, 197 únicos
+                   coordenadas_parcelas.csv: 197 ID únicos y los mismos de la tabla oficial        OK                            197 filas, 197 únicos
+                           parcelas.geojson: 197 ID únicos y los mismos de la tabla oficial        OK                            197 filas, 197 únicos
+                           predicciones.csv: 197 ID únicos y los mismos de la tabla oficial        OK                            197 filas, 197 únicos
+                    credito_por_parcela.csv: 197 ID únicos y los mismos de la tabla oficial        OK                            197 filas, 197 únicos
+credito_por_parcela_intervalo_municipio.csv: 197 ID únicos y los mismos de la tabla oficial        OK                            197 filas, 197 únicos
+                            datos_visor.csv: 197 ID únicos y los mismos de la tabla oficial        OK                            197 filas, 197 únicos
+                                           factores.csv: 5 factores por cada una de las 197        OK                                                 
+                                CONJUNTO idéntico entre la tabla oficial y predicciones.csv        OK                                                 
+               predicciones.csv indica el tipo de predicción (fuera de fold / modelo final)        OK                                                 
+                          factores.csv: en las 59, la predicción del modelo final = entrega        OK                            diferencia máx 0.0002
+                                                           predicciones.csv (app) = entrega        OK                                                 
+                                         Visor: 197 polígonos con ID únicos = tabla oficial        OK                                                 
+                                                       Visor: sus 59 predicciones = entrega        OK                                                 
+                                             Visor: ninguna estimada marcada como observada        OK                                                 
+                                           Visor capa 1 · Rendimiento: definida y con datos        OK                       197/197 parcelas con valor
+                                         Visor capa 2 · Incertidumbre: definida y con datos        OK                         59/59 parcelas con valor
+                                Visor capa 3 · Vegetación (pico NDVI): definida y con datos        OK                       197/197 parcelas con valor
+                                    Visor capa 3 · Calidad (banderas): definida y con datos        OK                       197/197 parcelas con valor
+                         Visor capa 4 · Riesgo productivo (escenario): definida y con datos        OK                         59/59 parcelas con valor
+                                            Visor: carga Leaflet (mapa) desde el CDN fijado        OK         necesita internet solo para el mapa base
+            Notebook ejecutado completo en esta sesión (Ejecutar todo = corrida desde cero)        OK                            pasos 1-29 en memoria
+                                        Visor del paso 29: todas sus pruebas críticas en OK        OK                                         18/18 OK
+                                      Crédito con etiquetas corregidas (sin 'prob_no_pago')        OK              vuelve a correr el paso 24 si falla
+
+TODO CORRECTO: las correcciones no cambiaron la entrega, las métricas ni el modelo.

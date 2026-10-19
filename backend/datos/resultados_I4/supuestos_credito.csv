@@ -1,0 +1,8 @@
+﻿concepto,valor,unidad,fuente,fecha_consulta
+"Precio de la cebada maltera, PV 2025",7500.0,MXN/t,"Acuerdos Grupo Modelo (7,500) y Heineken (7,513 + bonificaciones) con productores; La Jornada San Luis 04-may-2025, Excélsior 14-may-2025. SIAP aún no publica el precio medio rural PV 2025. FIRA supone 7,866.",13-oct-2026
+Costo de producción financiable,20977.0,MXN/ha,"FIRA Agrocostos, Cebada TMF Hidalgo PV 2025 (zona Altiplano; aplica a Hidalgo, Tlaxcala, Edo. Méx. y Puebla). No incluye renta de la tierra (5,000 MXN/ha/ciclo).",13-oct-2026
+Porcentaje financiado,0.9,fracción,"FIRA Agrocostos, Cebada TMF Hidalgo PV 2025 (zona Altiplano; aplica a Hidalgo, Tlaxcala, Edo. Méx. y Puebla). Créditos de hasta 160,000 UDIS; la parcela mayor (64 ha) queda debajo.",13-oct-2026
+Crédito por hectárea (cuota FIRA),18878.0,MXN/ha,"FIRA Agrocostos, Cebada TMF Hidalgo PV 2025 (zona Altiplano; aplica a Hidalgo, Tlaxcala, Edo. Méx. y Puebla)",13-oct-2026
+Intereses por hectárea,3242.0,MXN/ha,"FIRA Agrocostos, Cebada TMF Hidalgo PV 2025 (zona Altiplano; aplica a Hidalgo, Tlaxcala, Edo. Méx. y Puebla). Ministraciones abr-2025 y ago-2025; vencimiento 31-mar-2026.",13-oct-2026
+Factor de pago (crédito + intereses) / crédito,1.1717,—,Calculado con las cifras de FIRA (tasa implícita ~18 % anual).,13-oct-2026
+Seguro agrícola,2736.0,MXN/ha,"FIRA Agrocostos, Cebada TMF Hidalgo PV 2025 (zona Altiplano; aplica a Hidalgo, Tlaxcala, Edo. Méx. y Puebla). Incluido dentro del costo.",13-oct-2026

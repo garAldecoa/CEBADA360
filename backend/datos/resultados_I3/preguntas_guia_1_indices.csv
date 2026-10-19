@@ -1,0 +1,16 @@
+indice,metrica,variable,spearman,rmse_con_vecinas,mejora_vs_vecinas
+LAI (Planet),pico,pl_lai_pico,-0.2245,0.5028,-0.0033
+VI6T (Landsat),pico/media,ls_vi6t_media_jul_oct,0.2091,0.5003,-0.0008
+MSAVI (Planet),pico,pl_msavi_pico,-0.2073,0.5029,-0.0034
+NDVI (Planet),pico,pl_ndvi_pico,-0.2028,0.5029,-0.0034
+EVI (Planet),pico,pl_evi_pico,-0.2016,0.5028,-0.0033
+MSI (Sentinel-2),pico/media,s2_msi_pico,0.1875,0.5004,-0.0009
+NDWI (Sentinel-2),pico/media,s2_ndwi_pico,-0.1864,0.5006,-0.0011
+EVI (Sentinel-2),pico,s2_evi_pico,-0.1806,0.5029,-0.0034
+NDVI (Sentinel-2),pico,s2_ndvi_pico,-0.1313,0.5023,-0.0028
+MSAVI (Planet),área bajo la curva,pl_msavi_auc,0.1163,0.5014,-0.0019
+NDVI (Planet),área bajo la curva,pl_ndvi_auc,0.0929,0.5001,-0.0006
+EVI (Sentinel-2),área bajo la curva,s2_evi_auc,0.0893,0.5017,-0.0022
+EVI (Planet),área bajo la curva,pl_evi_auc,0.0859,0.5014,-0.0019
+NDVI (Sentinel-2),área bajo la curva,s2_ndvi_auc,0.0704,0.5005,-0.001
+LAI (Planet),área bajo la curva,pl_lai_auc,0.0564,0.5007,-0.0012

@@ -1,0 +1,19 @@
+prueba,resultado,detalle
+197 parcelas únicas en la tabla,OK,197 filas
+138 de entrenamiento y 59 de predicción,OK,
+197 polígonos únicos en parcelas.geojson,OK,197
+Mismos IDs en el mapa y en la tabla (ninguno se pierde en la unión),OK,
+Polígonos válidos,OK,inválidos: 0
+Coordenadas en WGS84 (lo que usa el mapa web),OK,EPSG:4326
+Cada polígono está en su ubicación (centroide = coordenadas_parcelas.csv),OK,máx 2.84e-14°
+Las 59 de predicción NO traen rendimiento observado (sin fuga),OK,
+Las 138 de entrenamiento traen rendimiento observado,OK,
+Las 59 predicciones del visor = archivo de entrega del paso 19,OK,diferencia máx 0.00e+00 t/ha
+Huella SHA-256 del archivo de entrega sin cambios,OK,21955b71fdb306a1…
+Producción = rendimiento × área,OK,
+Intervalo de las 59 completo y con límite inferior ≤ predicción ≤ superior,OK,
+Sin rendimientos faltantes en el mapa,OK,faltan 0
+Probabilidad de riesgo disponible para las 59,OK,
+Factores del modelo disponibles (paso F),OK,
+Cada capa tiene tantos colores como clases,OK,
+El visor contiene las 197 parcelas,OK,

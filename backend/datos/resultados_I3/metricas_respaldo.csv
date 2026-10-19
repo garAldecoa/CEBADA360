@@ -1,0 +1,4 @@
+modelo,variables,RMSE,RMSE_sd,MAE,R2
+Ridge sin vecinas,24,0.5923,0.0124,0.4361,0.5122
+Random Forest sin vecinas,24,0.5721,0.0099,0.4154,0.545
+Ensamble CEBADA360 (con ubicación),5,0.494,0.0062,0.3381,0.6607

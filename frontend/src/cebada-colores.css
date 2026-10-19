@@ -1,0 +1,51 @@
+/* CEBADA360: colores fijos de las cuatro tarjetas, en ambas pantallas. */
+
+/* Pantalla 1: tarjetas generales. */
+#root section[aria-label="Indicadores generales"] > article:nth-child(1) {
+  background: linear-gradient(135deg, #d8f0e2, #eef9f1) !important;
+  border: 1px solid #a4d4b7 !important;
+  box-shadow: 0 4px 15px #23764c1f !important;
+}
+#root section[aria-label="Indicadores generales"] > article:nth-child(2) {
+  background: linear-gradient(135deg, #fff0bf, #fff9e7) !important;
+  border: 1px solid #e4c66d !important;
+  box-shadow: 0 4px 15px #9466001a !important;
+}
+#root section[aria-label="Indicadores generales"] > article:nth-child(3) {
+  background: linear-gradient(135deg, #f9dbe0, #fff0f2) !important;
+  border: 1px solid #e9aebb !important;
+  box-shadow: 0 4px 15px #a93b541a !important;
+}
+#root section[aria-label="Indicadores generales"] > article:nth-child(4) {
+  background: linear-gradient(135deg, #dcecff, #f0f7ff) !important;
+  border: 1px solid #a9c9ec !important;
+  box-shadow: 0 4px 15px #2864ae1a !important;
+}
+
+/* Pantalla 2: las cuatro tarjetas son el primer grid del main. */
+#root main > div.grid:first-child > article:nth-child(1) {
+  background: linear-gradient(135deg, #d8f0e2, #eef9f1) !important;
+  border: 1px solid #a4d4b7 !important;
+  box-shadow: 0 4px 15px #23764c1f !important;
+}
+#root main > div.grid:first-child > article:nth-child(2) {
+  background: linear-gradient(135deg, #fff0bf, #fff9e7) !important;
+  border: 1px solid #e4c66d !important;
+  box-shadow: 0 4px 15px #9466001a !important;
+}
+#root main > div.grid:first-child > article:nth-child(3) {
+  background: linear-gradient(135deg, #dcecff, #f0f7ff) !important;
+  border: 1px solid #a9c9ec !important;
+  box-shadow: 0 4px 15px #2864ae1a !important;
+}
+#root main > div.grid:first-child > article:nth-child(4) {
+  background: linear-gradient(135deg, #eee3ff, #f7f1ff) !important;
+  border: 1px solid #c9b3e8 !important;
+  box-shadow: 0 4px 15px #754a9e1a !important;
+}
+
+/* Iconos de la ficha individual. */
+#root main > div.grid:first-child > article:nth-child(1) > svg { color: #23764c !important; }
+#root main > div.grid:first-child > article:nth-child(2) > svg { color: #946600 !important; }
+#root main > div.grid:first-child > article:nth-child(3) > svg { color: #2864ae !important; }
+#root main > div.grid:first-child > article:nth-child(4) > svg { color: #754a9e !important; }

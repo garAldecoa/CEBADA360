@@ -1,0 +1,16 @@
+repeticion,fold,elegido,rmse_interno_elegido,segundo,rmse_interno_segundo,posicion_ensamble,rmse_externo_elegido
+0,0,Vecinas k=12 solas,0.5062,Ridge: vecinas + lluvia + amplitud térmica,0.5095,3,0.453
+0,1,Ensamble CEBADA360 (Ridge + municipio + espacial),0.4807,Ridge: vecinas + lluvia + amplitud térmica,0.4821,1,0.5375
+0,2,Ensamble CEBADA360 (Ridge + municipio + espacial),0.4923,Proceso gaussiano (coordenadas),0.501,1,0.4973
+0,3,Ridge: vecinas + lluvia + amplitud térmica,0.4924,Ensamble CEBADA360 (Ridge + municipio + espacial),0.4931,2,0.53
+0,4,Ensamble CEBADA360 (Ridge + municipio + espacial),0.4856,Vecinas k=12 solas,0.4876,1,0.5109
+1,0,Random Forest: vecinas + lluvia + amplitud,0.504,Ensamble CEBADA360 (Ridge + municipio + espacial),0.5143,2,0.4919
+1,1,Ensamble CEBADA360 (Ridge + municipio + espacial),0.4999,Promedio del municipio,0.5017,1,0.5253
+1,2,Ridge: vecinas + lluvia + amplitud térmica,0.5149,Ensamble CEBADA360 (Ridge + municipio + espacial),0.5155,2,0.4057
+1,3,Vecinas k=12 solas,0.4565,Ridge: vecinas + lluvia + amplitud térmica,0.4604,3,0.6063
+1,4,Ensamble CEBADA360 (Ridge + municipio + espacial),0.4978,Ridge: vecinas + lluvia + amplitud térmica,0.5003,1,0.4874
+2,0,Vecinas k=12 solas,0.5186,Ridge: vecinas + lluvia + amplitud térmica,0.52,3,0.3609
+2,1,Ensamble CEBADA360 (Ridge + municipio + espacial),0.5093,Ridge: vecinas + lluvia + amplitud térmica,0.5124,1,0.4308
+2,2,Random Forest: vecinas + 24 variables núcleo,0.4105,Gradient Boosting: vecinas + 24 variables núcleo,0.4169,5,0.7266
+2,3,Ridge: vecinas + lluvia + amplitud térmica,0.4928,Vecinas k=12 solas,0.4985,3,0.4678
+2,4,Ensamble CEBADA360 (Ridge + municipio + espacial),0.4968,Ridge: vecinas + lluvia + amplitud térmica,0.4992,1,0.5302

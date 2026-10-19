@@ -1,0 +1,10 @@
+Municipio,parcelas,RMSE,IC90_lo,IC90_hi,p10_error,p90_error
+Nanacamilpa de Mariano Arista,1,0.797,0.797,0.797,-0.797,-0.797
+Chignahuapan,71,0.582,0.451,0.707,-0.587,0.673
+Tepeapulco,1,0.495,0.495,0.495,0.495,0.495
+Singuilucan,16,0.49,0.306,0.652,-0.745,0.479
+Calpulalpan,30,0.41,0.347,0.468,-0.596,0.554
+Apan,1,0.37,0.37,0.37,-0.37,-0.37
+Cuautepec de Hinojosa,5,0.309,0.164,0.44,-0.085,0.455
+Almoloya,10,0.193,0.081,0.273,-0.095,0.161
+Emiliano Zapata,3,0.142,0.133,0.151,0.132,0.154

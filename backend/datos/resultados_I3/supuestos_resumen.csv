@@ -1,0 +1,15 @@
+supuesto,prueba,modelo_evaluado,H0,estadistico,p_valor,conclusion,lectura,nota
+1. Media cero,Prueba t de una muestra,residuales fuera de fold del ensamble,μ_e = 0,-0.04,0.9682,no se rechaza H0,sin evidencia en contra del supuesto (no lo demuestra),
+2. Varianza constante,Breusch-Pagan (contra ajustados),residuales fuera de fold del ensamble,homocedasticidad,1.0041,0.3163,no se rechaza H0,sin evidencia en contra del supuesto (no lo demuestra),
+2. Varianza constante,Breusch-Pagan (contra municipio),residuales fuera de fold del ensamble,misma varianza en todos los municipios,4.3014,0.6360,no se rechaza H0,sin evidencia en contra del supuesto (no lo demuestra),
+2. Varianza constante,"White (contra clima, con cuadrados y cruces)",residuales fuera de fold del ensamble,homocedasticidad,2.2139,0.8188,no se rechaza H0,sin evidencia en contra del supuesto (no lo demuestra),
+2. Varianza constante,Levene/Brown-Forsythe (por municipio),residuales fuera de fold del ensamble,varianzas iguales entre municipios,1.4113,0.2150,no se rechaza H0,sin evidencia en contra del supuesto (no lo demuestra),
+3. Normalidad,Anderson-Darling,residuales fuera de fold del ensamble,los errores son normales,2.6409,1.1e-06,se rechaza H0,evidencia en contra del supuesto,
+3. Normalidad,Jarque-Bera,residuales fuera de fold del ensamble,asimetría = 0 y curtosis = 3,100.6106,1.4e-22,se rechaza H0,evidencia en contra del supuesto,
+3. Normalidad,Shapiro-Wilk,residuales fuera de fold del ensamble,los errores son normales,0.9223,7.6e-07,se rechaza H0,evidencia en contra del supuesto,
+3. Normalidad,Kolmogorov-Smirnov (Lilliefors),residuales fuera de fold del ensamble,los errores son normales,0.1663,0.0010,se rechaza H0,evidencia en contra del supuesto,
+4. Independencia,"Índice de Moran (8 vecinas, 999 permutaciones)",residuales fuera de fold del ensamble,no hay autocorrelación espacial,-0.0626,0.1300,no se rechaza H0,sin evidencia en contra del supuesto (no lo demuestra),
+4. Independencia,"Ljung-Box sobre el orden espacial oeste→este (referencia, no temporal; rezago 10)",residuales fuera de fold del ensamble,no hay autocorrelación en ese orden,8.5947,0.5710,no se rechaza H0,sin evidencia en contra del supuesto (no lo demuestra),complementaria; la prueba espacial principal es Moran
+5. Especificación,"RESET de Ramsey (potencias 2 y 3 de ŷ, MCO auxiliar)",regresión MCO auxiliar (no el ensamble),la forma lineal del MCO auxiliar es adecuada,7.1681,0.0011,se rechaza H0,evidencia en contra del supuesto,indicio sobre el MCO auxiliar; no diagnostica directamente el ensamble (ver paso 18)
+5. Multicolinealidad,VIF máximo (MCO auxiliar),regresión MCO auxiliar (no el ensamble),—,1.908,,VIF < 5: sin multicolinealidad relevante,"regla práctica, no prueba de hipótesis",umbral VIF 5
+6. Atípicos,Residual studentizado > 2.5 o Cook > 4/n (MCO auxiliar),regresión MCO auxiliar (no el ensamble),—,7.0,,revisar,"regla práctica, no prueba de hipótesis","7 parcelas: AGC_015, AGC_034, AGC_041, AGC_171, AGC_122, AGC_127, AGC_026"

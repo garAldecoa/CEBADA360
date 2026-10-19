@@ -1,0 +1,6 @@
+esquema,distancia_mediana_km,RMSE,RMSE_sd,MAE,R2
+Estratificada por municipio (la del equipo),0.411,0.494,0.0062,0.3381,0.6607
+Bloques espaciales k-means (15 bloques),2.267,0.577,0.069,0.3963,0.5372
+Bloques espaciales k-means (8 bloques),3.354,0.6714,0.0111,0.4895,0.3732
+Dejar un municipio fuera,4.847,0.7487,0.0,0.6083,0.2207
+REAL: las 59 parcelas a calificar,0.349,,,,

@@ -1,0 +1,8 @@
+combinacion,variables,RMSE
+Vecinas solas,1,0.4995
+Vecinas + lluvia del crecimiento,2,0.4979
+Vecinas + amplitud térmica,2,0.498
+Vecinas + lluvia + amplitud (Ridge del ensamble),3,0.4963
+Vecinas + lluvia + amplitud + pl_ndvi_auc,4,0.4995
+Vecinas + 24 variables núcleo,25,0.5319
+ENSAMBLE CEBADA360 (Ridge + municipio + espacial),5,0.494

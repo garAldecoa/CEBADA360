@@ -1,0 +1,986 @@
+ID_POLIGONO,variable,etiqueta,valor,contribucion,prediccion_modelo_final,tipo_explicacion
+AGC_001,vecinas,Rendimiento de las parcelas vecinas,3.0291,-0.2661,2.9953,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_001,clim_prec_vegetativa_2025,Lluvia en el crecimiento,317.8636,-0.0308,2.9953,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_001,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.4018,-0.0355,2.9953,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_001,municipio,Promedio del municipio,3.0,-0.3185,2.9953,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_001,espacial,Patrón espacial de la zona,3.0277,-0.3092,2.9953,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_002,vecinas,Rendimiento de las parcelas vecinas,4.4836,0.158,4.5457,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_002,clim_prec_vegetativa_2025,Lluvia en el crecimiento,178.7116,0.0083,4.5457,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_002,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,8.2265,0.0785,4.5457,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_002,municipio,Promedio del municipio,4.4773,0.174,4.5457,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_002,espacial,Patrón espacial de la zona,4.4698,0.1715,4.5457,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_003,vecinas,Rendimiento de las parcelas vecinas,3.319,-0.1816,3.2414,explica la predicción entregada (modelo final)
+AGC_003,clim_prec_vegetativa_2025,Lluvia en el crecimiento,215.5865,-0.0021,3.2414,explica la predicción entregada (modelo final)
+AGC_003,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.7624,-0.002,3.2414,explica la predicción entregada (modelo final)
+AGC_003,municipio,Promedio del municipio,3.0812,-0.2914,3.2414,explica la predicción entregada (modelo final)
+AGC_003,espacial,Patrón espacial de la zona,3.2447,-0.2369,3.2414,explica la predicción entregada (modelo final)
+AGC_004,vecinas,Rendimiento de las parcelas vecinas,3.0041,-0.2734,3.0052,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_004,clim_prec_vegetativa_2025,Lluvia en el crecimiento,140.0738,0.0191,3.0052,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_004,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.7247,-0.0524,3.0052,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_004,municipio,Promedio del municipio,3.0,-0.3185,3.0052,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_004,espacial,Patrón espacial de la zona,2.9803,-0.325,3.0052,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_005,vecinas,Rendimiento de las parcelas vecinas,4.5024,0.1635,4.5156,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_005,clim_prec_vegetativa_2025,Lluvia en el crecimiento,94.433,0.0319,4.5156,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_005,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.503,0.0116,4.5156,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_005,municipio,Promedio del municipio,4.4773,0.174,4.5156,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_005,espacial,Patrón espacial de la zona,4.4929,0.1792,4.5156,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_006,vecinas,Rendimiento de las parcelas vecinas,4.6306,0.2009,4.5698,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_006,clim_prec_vegetativa_2025,Lluvia en el crecimiento,212.7656,-0.0013,4.5698,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_006,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.5089,0.0113,4.5698,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_006,municipio,Promedio del municipio,4.4773,0.174,4.5698,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_006,espacial,Patrón espacial de la zona,4.6438,0.2295,4.5698,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_007,vecinas,Rendimiento de las parcelas vecinas,3.0692,-0.2545,3.0919,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_007,clim_prec_vegetativa_2025,Lluvia en el crecimiento,321.6693,-0.0319,3.0919,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_007,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.8247,-0.0053,3.0919,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_007,municipio,Promedio del municipio,3.0812,-0.2914,3.0919,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_007,espacial,Patrón espacial de la zona,3.1142,-0.2804,3.0919,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_008,vecinas,Rendimiento de las parcelas vecinas,3.9941,0.0153,4.2736,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_008,clim_prec_vegetativa_2025,Lluvia en el crecimiento,307.8897,-0.028,4.2736,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_008,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.5804,0.0075,4.2736,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_008,municipio,Promedio del municipio,4.4773,0.174,4.2736,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_008,espacial,Patrón espacial de la zona,4.4035,0.1494,4.2736,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_009,vecinas,Rendimiento de las parcelas vecinas,4.4437,0.1464,4.5169,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_009,clim_prec_vegetativa_2025,Lluvia en el crecimiento,138.3141,0.0196,4.5169,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_009,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,8.8545,0.0456,4.5169,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_009,municipio,Promedio del municipio,4.598,0.2142,4.5169,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_009,espacial,Patrón espacial de la zona,4.3625,0.1357,4.5169,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_010,vecinas,Rendimiento de las parcelas vecinas,4.3167,0.1093,4.4848,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_010,clim_prec_vegetativa_2025,Lluvia en el crecimiento,154.944,0.0149,4.4848,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_010,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,8.306,0.0743,4.4848,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_010,municipio,Promedio del municipio,4.4773,0.174,4.4848,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_010,espacial,Patrón espacial de la zona,4.426,0.1569,4.4848,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_011,vecinas,Rendimiento de las parcelas vecinas,4.7089,0.2237,4.5649,explica la predicción entregada (modelo final)
+AGC_011,clim_prec_vegetativa_2025,Lluvia en el crecimiento,307.7297,-0.0279,4.5649,explica la predicción entregada (modelo final)
+AGC_011,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.2458,0.0251,4.5649,explica la predicción entregada (modelo final)
+AGC_011,municipio,Promedio del municipio,4.4773,0.174,4.5649,explica la predicción entregada (modelo final)
+AGC_011,espacial,Patrón espacial de la zona,4.5992,0.2146,4.5649,explica la predicción entregada (modelo final)
+AGC_012,vecinas,Rendimiento de las parcelas vecinas,4.6982,0.2206,4.5709,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_012,clim_prec_vegetativa_2025,Lluvia en el crecimiento,240.667,-0.0091,4.5709,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_012,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.4617,0.0138,4.5709,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_012,municipio,Promedio del municipio,4.4773,0.174,4.5709,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_012,espacial,Patrón espacial de la zona,4.6041,0.2162,4.5709,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_013,vecinas,Rendimiento de las parcelas vecinas,4.5952,0.1905,4.5419,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_013,clim_prec_vegetativa_2025,Lluvia en el crecimiento,268.4429,-0.0169,4.5419,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_013,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.417,0.0161,4.5419,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_013,municipio,Promedio del municipio,4.4773,0.174,4.5419,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_013,espacial,Patrón espacial de la zona,4.6238,0.2228,4.5419,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_014,vecinas,Rendimiento de las parcelas vecinas,4.1695,0.0664,4.4232,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_014,clim_prec_vegetativa_2025,Lluvia en el crecimiento,156.3115,0.0145,4.4232,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_014,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,8.6315,0.0573,4.4232,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_014,municipio,Promedio del municipio,4.4773,0.174,4.4232,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_014,espacial,Patrón espacial de la zona,4.4223,0.1556,4.4232,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_015,vecinas,Rendimiento de las parcelas vecinas,4.7625,0.2393,4.5968,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_015,clim_prec_vegetativa_2025,Lluvia en el crecimiento,170.832,0.0105,4.5968,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_015,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.2633,0.0242,4.5968,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_015,municipio,Promedio del municipio,4.4773,0.174,4.5968,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_015,espacial,Patrón espacial de la zona,4.5356,0.1934,4.5968,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_016,vecinas,Rendimiento de las parcelas vecinas,4.5369,0.1735,4.4658,explica la predicción entregada (modelo final)
+AGC_016,clim_prec_vegetativa_2025,Lluvia en el crecimiento,303.9528,-0.0269,4.4658,explica la predicción entregada (modelo final)
+AGC_016,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.3864,0.0177,4.4658,explica la predicción entregada (modelo final)
+AGC_016,municipio,Promedio del municipio,4.4773,0.174,4.4658,explica la predicción entregada (modelo final)
+AGC_016,espacial,Patrón espacial de la zona,4.4717,0.1721,4.4658,explica la predicción entregada (modelo final)
+AGC_017,vecinas,Rendimiento de las parcelas vecinas,4.4172,0.1386,4.4407,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_017,clim_prec_vegetativa_2025,Lluvia en el crecimiento,283.0127,-0.021,4.4407,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_017,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.3527,0.0195,4.4407,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_017,municipio,Promedio del municipio,4.4773,0.174,4.4407,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_017,espacial,Patrón espacial de la zona,4.4779,0.1742,4.4407,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_018,vecinas,Rendimiento de las parcelas vecinas,4.2164,0.0801,4.3423,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_018,clim_prec_vegetativa_2025,Lluvia en el crecimiento,258.1714,-0.014,4.3423,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_018,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.1451,0.0303,4.3423,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_018,municipio,Promedio del municipio,4.4773,0.174,4.3423,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_018,espacial,Patrón espacial de la zona,4.3047,0.1165,4.3423,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_019,vecinas,Rendimiento de las parcelas vecinas,2.9779,-0.2811,3.0198,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_019,clim_prec_vegetativa_2025,Lluvia en el crecimiento,137.9541,0.0197,3.0198,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_019,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.7183,-0.0521,3.0198,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_019,municipio,Promedio del municipio,3.0,-0.3185,3.0198,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_019,espacial,Patrón espacial de la zona,3.0446,-0.3036,3.0198,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_020,vecinas,Rendimiento de las parcelas vecinas,3.3607,-0.1695,3.3755,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_020,clim_prec_vegetativa_2025,Lluvia en el crecimiento,121.7647,0.0242,3.3755,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_020,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.691,-0.0506,3.3755,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_020,municipio,Promedio del municipio,3.5,-0.1518,3.3755,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_020,espacial,Patrón espacial de la zona,3.2588,-0.2322,3.3755,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_021,vecinas,Rendimiento de las parcelas vecinas,4.6087,0.1945,4.604,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_021,clim_prec_vegetativa_2025,Lluvia en el crecimiento,83.8099,0.0349,4.604,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_021,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,8.9822,0.0389,4.604,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_021,municipio,Promedio del municipio,4.4773,0.174,4.604,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_021,espacial,Patrón espacial de la zona,4.5743,0.2063,4.604,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_022,vecinas,Rendimiento de las parcelas vecinas,4.378,0.1272,4.4137,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_022,clim_prec_vegetativa_2025,Lluvia en el crecimiento,286.3453,-0.0219,4.4137,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_022,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.3453,0.0199,4.4137,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_022,municipio,Promedio del municipio,4.4773,0.174,4.4137,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_022,espacial,Patrón espacial de la zona,4.4325,0.1591,4.4137,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_023,vecinas,Rendimiento de las parcelas vecinas,2.9599,-0.2863,2.9955,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_023,clim_prec_vegetativa_2025,Lluvia en el crecimiento,194.5971,0.0038,2.9955,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_023,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.7521,-0.0538,2.9955,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_023,municipio,Promedio del municipio,3.0,-0.3185,2.9955,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_023,espacial,Patrón espacial de la zona,3.0402,-0.3051,2.9955,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_024,vecinas,Rendimiento de las parcelas vecinas,4.058,0.0339,4.3142,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_024,clim_prec_vegetativa_2025,Lluvia en el crecimiento,200.1948,0.0022,4.3142,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_024,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.7172,0.0004,4.3142,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_024,municipio,Promedio del municipio,4.4773,0.174,4.3142,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_024,espacial,Patrón espacial de la zona,4.4003,0.1483,4.3142,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_025,vecinas,Rendimiento de las parcelas vecinas,2.8978,-0.3044,3.0018,explica la predicción entregada (modelo final)
+AGC_025,clim_prec_vegetativa_2025,Lluvia en el crecimiento,84.6249,0.0347,3.0018,explica la predicción entregada (modelo final)
+AGC_025,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.5895,-0.0453,3.0018,explica la predicción entregada (modelo final)
+AGC_025,municipio,Promedio del municipio,3.0,-0.3185,3.0018,explica la predicción entregada (modelo final)
+AGC_025,espacial,Patrón espacial de la zona,2.9951,-0.3201,3.0018,explica la predicción entregada (modelo final)
+AGC_026,vecinas,Rendimiento de las parcelas vecinas,4.5713,0.1836,4.4588,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_026,clim_prec_vegetativa_2025,Lluvia en el crecimiento,377.05,-0.0474,4.4588,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_026,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.2532,0.0247,4.4588,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_026,municipio,Promedio del municipio,4.4773,0.174,4.4588,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_026,espacial,Patrón espacial de la zona,4.4608,0.1685,4.4588,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_027,vecinas,Rendimiento de las parcelas vecinas,3.0398,-0.263,2.9968,explica la predicción entregada (modelo final)
+AGC_027,clim_prec_vegetativa_2025,Lluvia en el crecimiento,208.273,-0.0,2.9968,explica la predicción entregada (modelo final)
+AGC_027,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.7917,-0.0559,2.9968,explica la predicción entregada (modelo final)
+AGC_027,municipio,Promedio del municipio,3.0,-0.3185,2.9968,explica la predicción entregada (modelo final)
+AGC_027,espacial,Patrón espacial de la zona,2.9918,-0.3212,2.9968,explica la predicción entregada (modelo final)
+AGC_028,vecinas,Rendimiento de las parcelas vecinas,4.5665,0.1822,4.493,explica la predicción entregada (modelo final)
+AGC_028,clim_prec_vegetativa_2025,Lluvia en el crecimiento,171.3792,0.0103,4.493,explica la predicción entregada (modelo final)
+AGC_028,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.7277,-0.0002,4.493,explica la predicción entregada (modelo final)
+AGC_028,municipio,Promedio del municipio,4.4773,0.174,4.493,explica la predicción entregada (modelo final)
+AGC_028,espacial,Patrón espacial de la zona,4.4693,0.1713,4.493,explica la predicción entregada (modelo final)
+AGC_029,vecinas,Rendimiento de las parcelas vecinas,3.0974,-0.2462,3.0292,explica la predicción entregada (modelo final)
+AGC_029,clim_prec_vegetativa_2025,Lluvia en el crecimiento,212.342,-0.0012,3.0292,explica la predicción entregada (modelo final)
+AGC_029,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.6166,-0.0467,3.0292,explica la predicción entregada (modelo final)
+AGC_029,municipio,Promedio del municipio,3.0,-0.3185,3.0292,explica la predicción entregada (modelo final)
+AGC_029,espacial,Patrón espacial de la zona,3.0145,-0.3136,3.0292,explica la predicción entregada (modelo final)
+AGC_030,vecinas,Rendimiento de las parcelas vecinas,3.1023,-0.2448,3.1285,explica la predicción entregada (modelo final)
+AGC_030,clim_prec_vegetativa_2025,Lluvia en el crecimiento,198.6685,0.0027,3.1285,explica la predicción entregada (modelo final)
+AGC_030,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.9557,-0.0121,3.1285,explica la predicción entregada (modelo final)
+AGC_030,municipio,Promedio del municipio,3.0812,-0.2914,3.1285,explica la predicción entregada (modelo final)
+AGC_030,espacial,Patrón espacial de la zona,3.1114,-0.2813,3.1285,explica la predicción entregada (modelo final)
+AGC_031,vecinas,Rendimiento de las parcelas vecinas,3.9643,0.0065,4.2634,explica la predicción entregada (modelo final)
+AGC_031,clim_prec_vegetativa_2025,Lluvia en el crecimiento,371.1536,-0.0457,4.2634,explica la predicción entregada (modelo final)
+AGC_031,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.4035,0.0168,4.2634,explica la predicción entregada (modelo final)
+AGC_031,municipio,Promedio del municipio,4.4773,0.174,4.2634,explica la predicción entregada (modelo final)
+AGC_031,espacial,Patrón espacial de la zona,4.4245,0.1564,4.2634,explica la predicción entregada (modelo final)
+AGC_032,vecinas,Rendimiento de las parcelas vecinas,4.5943,0.1903,4.5162,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_032,clim_prec_vegetativa_2025,Lluvia en el crecimiento,160.9379,0.0132,4.5162,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_032,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.5668,0.0083,4.5162,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_032,municipio,Promedio del municipio,4.4773,0.174,4.5162,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_032,espacial,Patrón espacial de la zona,4.4804,0.175,4.5162,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_033,vecinas,Rendimiento de las parcelas vecinas,4.5712,0.1835,4.5552,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_033,clim_prec_vegetativa_2025,Lluvia en el crecimiento,150.0577,0.0163,4.5552,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_033,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.3358,0.0204,4.5552,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_033,municipio,Promedio del municipio,4.4773,0.174,4.5552,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_033,espacial,Patrón espacial de la zona,4.5723,0.2056,4.5552,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_034,vecinas,Rendimiento de las parcelas vecinas,3.1237,-0.2385,3.1315,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_034,clim_prec_vegetativa_2025,Lluvia en el crecimiento,365.1732,-0.0441,3.1315,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_034,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.6171,0.0056,3.1315,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_034,municipio,Promedio del municipio,3.0812,-0.2914,3.1315,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_034,espacial,Patrón espacial de la zona,3.1887,-0.2555,3.1315,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_035,vecinas,Rendimiento de las parcelas vecinas,4.2281,0.0835,4.2409,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_035,clim_prec_vegetativa_2025,Lluvia en el crecimiento,237.0811,-0.0081,4.2409,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_035,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.9706,-0.0129,4.2409,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_035,municipio,Promedio del municipio,4.598,0.2142,4.2409,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_035,espacial,Patrón espacial de la zona,3.9817,0.0088,4.2409,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_036,vecinas,Rendimiento de las parcelas vecinas,4.443,0.1462,4.5271,explica la predicción entregada (modelo final)
+AGC_036,clim_prec_vegetativa_2025,Lluvia en el crecimiento,210.4017,-0.0006,4.5271,explica la predicción entregada (modelo final)
+AGC_036,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,8.1452,0.0827,4.5271,explica la predicción entregada (modelo final)
+AGC_036,municipio,Promedio del municipio,4.4773,0.174,4.5271,explica la predicción entregada (modelo final)
+AGC_036,espacial,Patrón espacial de la zona,4.4637,0.1694,4.5271,explica la predicción entregada (modelo final)
+AGC_037,vecinas,Rendimiento de las parcelas vecinas,2.9115,-0.3004,2.9641,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_037,clim_prec_vegetativa_2025,Lluvia en el crecimiento,211.992,-0.0011,2.9641,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_037,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.7771,-0.0551,2.9641,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_037,municipio,Promedio del municipio,3.0,-0.3185,2.9641,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_037,espacial,Patrón espacial de la zona,3.0068,-0.3162,2.9641,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_038,vecinas,Rendimiento de las parcelas vecinas,2.9117,-0.3004,3.1084,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_038,clim_prec_vegetativa_2025,Lluvia en el crecimiento,221.5821,-0.0038,3.1084,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_038,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.5148,0.011,3.1084,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_038,municipio,Promedio del municipio,3.0812,-0.2914,3.1084,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_038,espacial,Patrón espacial de la zona,3.1682,-0.2624,3.1084,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_039,vecinas,Rendimiento de las parcelas vecinas,2.8605,-0.3153,2.982,explica la predicción entregada (modelo final)
+AGC_039,clim_prec_vegetativa_2025,Lluvia en el crecimiento,153.0476,0.0155,2.982,explica la predicción entregada (modelo final)
+AGC_039,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.7549,-0.054,2.982,explica la predicción entregada (modelo final)
+AGC_039,municipio,Promedio del municipio,3.0,-0.3185,2.982,explica la predicción entregada (modelo final)
+AGC_039,espacial,Patrón espacial de la zona,3.0521,-0.3011,2.982,explica la predicción entregada (modelo final)
+AGC_040,vecinas,Rendimiento de las parcelas vecinas,2.8731,-0.3116,2.9935,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_040,clim_prec_vegetativa_2025,Lluvia en el crecimiento,92.0181,0.0326,2.9935,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_040,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.6177,-0.0468,2.9935,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_040,municipio,Promedio del municipio,3.0,-0.3185,2.9935,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_040,espacial,Patrón espacial de la zona,3.0027,-0.3176,2.9935,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_041,vecinas,Rendimiento de las parcelas vecinas,2.9662,-0.2845,3.1458,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_041,clim_prec_vegetativa_2025,Lluvia en el crecimiento,253.2269,-0.0127,3.1458,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_041,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,8.9686,0.0396,3.1458,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_041,municipio,Promedio del municipio,3.0812,-0.2914,3.1458,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_041,espacial,Patrón espacial de la zona,3.1734,-0.2606,3.1458,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_042,vecinas,Rendimiento de las parcelas vecinas,2.9488,-0.2896,3.0887,explica la predicción entregada (modelo final)
+AGC_042,clim_prec_vegetativa_2025,Lluvia en el crecimiento,311.083,-0.0289,3.0887,explica la predicción entregada (modelo final)
+AGC_042,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.7017,0.0012,3.0887,explica la predicción entregada (modelo final)
+AGC_042,municipio,Promedio del municipio,3.0812,-0.2914,3.0887,explica la predicción entregada (modelo final)
+AGC_042,espacial,Patrón espacial de la zona,3.1813,-0.258,3.0887,explica la predicción entregada (modelo final)
+AGC_043,vecinas,Rendimiento de las parcelas vecinas,4.3147,0.1087,4.383,explica la predicción entregada (modelo final)
+AGC_043,clim_prec_vegetativa_2025,Lluvia en el crecimiento,262.2727,-0.0152,4.383,explica la predicción entregada (modelo final)
+AGC_043,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.6969,0.0014,4.383,explica la predicción entregada (modelo final)
+AGC_043,municipio,Promedio del municipio,4.4773,0.174,4.383,explica la predicción entregada (modelo final)
+AGC_043,espacial,Patrón espacial de la zona,4.4315,0.1587,4.383,explica la predicción entregada (modelo final)
+AGC_044,vecinas,Rendimiento de las parcelas vecinas,3.364,-0.1685,3.3945,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_044,clim_prec_vegetativa_2025,Lluvia en el crecimiento,79.9453,0.036,3.3945,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_044,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.6437,-0.0482,3.3945,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_044,municipio,Promedio del municipio,3.5,-0.1518,3.3945,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_044,espacial,Patrón espacial de la zona,3.2702,-0.2284,3.3945,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_045,vecinas,Rendimiento de las parcelas vecinas,4.3981,0.1331,4.3578,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_045,clim_prec_vegetativa_2025,Lluvia en el crecimiento,310.7805,-0.0288,4.3578,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_045,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.6014,0.0064,4.3578,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_045,municipio,Promedio del municipio,4.4773,0.174,4.3578,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_045,espacial,Patrón espacial de la zona,4.3084,0.1177,4.3578,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_046,vecinas,Rendimiento de las parcelas vecinas,3.0877,-0.249,3.0069,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_046,clim_prec_vegetativa_2025,Lluvia en el crecimiento,219.9522,-0.0033,3.0069,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_046,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.8296,-0.0579,3.0069,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_046,municipio,Promedio del municipio,3.0,-0.3185,3.0069,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_046,espacial,Patrón espacial de la zona,2.996,-0.3198,3.0069,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_047,vecinas,Rendimiento de las parcelas vecinas,4.3442,0.1173,4.2916,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_047,clim_prec_vegetativa_2025,Lluvia en el crecimiento,216.4918,-0.0023,4.2916,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_047,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.1491,-0.0223,4.2916,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_047,municipio,Promedio del municipio,4.45,0.1649,4.2916,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_047,espacial,Patrón espacial de la zona,4.1913,0.0786,4.2916,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_048,vecinas,Rendimiento de las parcelas vecinas,3.1436,-0.2327,2.8982,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_048,clim_prec_vegetativa_2025,Lluvia en el crecimiento,148.8925,0.0166,2.8982,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_048,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.7932,-0.056,2.8982,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_048,municipio,Promedio del municipio,2.5,-0.4851,2.8982,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_048,espacial,Patrón espacial de la zona,3.0554,-0.3,2.8982,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_049,vecinas,Rendimiento de las parcelas vecinas,4.6164,0.1967,4.5875,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_049,clim_prec_vegetativa_2025,Lluvia en el crecimiento,98.3293,0.0308,4.5875,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_049,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.4743,0.0131,4.5875,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_049,municipio,Promedio del municipio,4.4773,0.174,4.5875,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_049,espacial,Patrón espacial de la zona,4.608,0.2175,4.5875,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_050,vecinas,Rendimiento de las parcelas vecinas,2.9302,-0.295,3.0051,explica la predicción entregada (modelo final)
+AGC_050,clim_prec_vegetativa_2025,Lluvia en el crecimiento,140.5458,0.019,3.0051,explica la predicción entregada (modelo final)
+AGC_050,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.7388,-0.0531,3.0051,explica la predicción entregada (modelo final)
+AGC_050,municipio,Promedio del municipio,3.0,-0.3185,3.0051,explica la predicción entregada (modelo final)
+AGC_050,espacial,Patrón espacial de la zona,3.0473,-0.3027,3.0051,explica la predicción entregada (modelo final)
+AGC_051,vecinas,Rendimiento de las parcelas vecinas,4.3381,0.1156,4.493,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_051,clim_prec_vegetativa_2025,Lluvia en el crecimiento,130.387,0.0218,4.493,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_051,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,8.8294,0.0469,4.493,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_051,municipio,Promedio del municipio,4.521,0.1885,4.493,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_051,espacial,Patrón espacial de la zona,4.4498,0.1648,4.493,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_052,vecinas,Rendimiento de las parcelas vecinas,4.5748,0.1846,4.5423,explica la predicción entregada (modelo final)
+AGC_052,clim_prec_vegetativa_2025,Lluvia en el crecimiento,163.3185,0.0126,4.5423,explica la predicción entregada (modelo final)
+AGC_052,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,8.8353,0.0466,4.5423,explica la predicción entregada (modelo final)
+AGC_052,municipio,Promedio del municipio,4.598,0.2142,4.5423,explica la predicción entregada (modelo final)
+AGC_052,espacial,Patrón espacial de la zona,4.3422,0.1289,4.5423,explica la predicción entregada (modelo final)
+AGC_053,vecinas,Rendimiento de las parcelas vecinas,3.1435,-0.2328,3.0663,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_053,clim_prec_vegetativa_2025,Lluvia en el crecimiento,190.2855,0.005,3.0663,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_053,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.3015,-0.0302,3.0663,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_053,municipio,Promedio del municipio,3.0,-0.3185,3.0663,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_053,espacial,Patrón espacial de la zona,3.0176,-0.3126,3.0663,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_054,vecinas,Rendimiento de las parcelas vecinas,3.0928,-0.2476,3.0056,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_054,clim_prec_vegetativa_2025,Lluvia en el crecimiento,267.5331,-0.0167,3.0056,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_054,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.8309,-0.058,3.0056,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_054,municipio,Promedio del municipio,3.0,-0.3185,3.0056,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_054,espacial,Patrón espacial de la zona,3.0282,-0.309,3.0056,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_055,vecinas,Rendimiento de las parcelas vecinas,4.6843,0.2165,4.5614,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_055,clim_prec_vegetativa_2025,Lluvia en el crecimiento,346.7169,-0.0389,4.5614,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_055,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.1514,0.03,4.5614,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_055,municipio,Promedio del municipio,4.4773,0.174,4.5614,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_055,espacial,Patrón espacial de la zona,4.6285,0.2244,4.5614,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_056,vecinas,Rendimiento de las parcelas vecinas,4.7307,0.23,4.6148,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_056,clim_prec_vegetativa_2025,Lluvia en el crecimiento,125.6827,0.0231,4.6148,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_056,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.6236,0.0053,4.6148,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_056,municipio,Promedio del municipio,4.4773,0.174,4.6148,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_056,espacial,Patrón espacial de la zona,4.6363,0.227,4.6148,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_057,vecinas,Rendimiento de las parcelas vecinas,4.7712,0.2419,4.5982,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_057,clim_prec_vegetativa_2025,Lluvia en el crecimiento,112.006,0.027,4.5982,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_057,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.5586,0.0087,4.5982,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_057,municipio,Promedio del municipio,4.4773,0.174,4.5982,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_057,espacial,Patrón espacial de la zona,4.5291,0.1912,4.5982,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_058,vecinas,Rendimiento de las parcelas vecinas,3.1553,-0.2293,3.0535,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_058,clim_prec_vegetativa_2025,Lluvia en el crecimiento,128.1773,0.0224,3.0535,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_058,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.8491,-0.0589,3.0535,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_058,municipio,Promedio del municipio,3.0,-0.3185,3.0535,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_058,espacial,Patrón espacial de la zona,3.0026,-0.3176,3.0535,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_059,vecinas,Rendimiento de las parcelas vecinas,4.4832,0.1579,4.4376,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_059,clim_prec_vegetativa_2025,Lluvia en el crecimiento,309.6458,-0.0285,4.4376,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_059,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.5912,0.007,4.4376,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_059,municipio,Promedio del municipio,4.521,0.1885,4.4376,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_059,espacial,Patrón espacial de la zona,4.4273,0.1573,4.4376,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_060,vecinas,Rendimiento de las parcelas vecinas,4.9652,0.2984,4.5804,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_060,clim_prec_vegetativa_2025,Lluvia en el crecimiento,360.2239,-0.0427,4.5804,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_060,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.445,0.0146,4.5804,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_060,municipio,Promedio del municipio,4.4773,0.174,4.5804,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_060,espacial,Patrón espacial de la zona,4.4974,0.1807,4.5804,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_061,vecinas,Rendimiento de las parcelas vecinas,2.9764,-0.2815,3.0077,explica la predicción entregada (modelo final)
+AGC_061,clim_prec_vegetativa_2025,Lluvia en el crecimiento,211.0137,-0.0008,3.0077,explica la predicción entregada (modelo final)
+AGC_061,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.9279,-0.063,3.0077,explica la predicción entregada (modelo final)
+AGC_061,municipio,Promedio del municipio,3.0,-0.3185,3.0077,explica la predicción entregada (modelo final)
+AGC_061,espacial,Patrón espacial de la zona,3.1038,-0.2839,3.0077,explica la predicción entregada (modelo final)
+AGC_062,vecinas,Rendimiento de las parcelas vecinas,4.4642,0.1523,4.3382,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_062,clim_prec_vegetativa_2025,Lluvia en el crecimiento,592.1217,-0.1078,4.3382,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_062,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.4143,0.0162,4.3382,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_062,municipio,Promedio del municipio,4.4773,0.174,4.3382,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_062,espacial,Patrón espacial de la zona,4.3996,0.1481,4.3382,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_063,vecinas,Rendimiento de las parcelas vecinas,4.237,0.0861,4.3559,explica la predicción entregada (modelo final)
+AGC_063,clim_prec_vegetativa_2025,Lluvia en el crecimiento,254.7357,-0.0131,4.3559,explica la predicción entregada (modelo final)
+AGC_063,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.503,0.0116,4.3559,explica la predicción entregada (modelo final)
+AGC_063,municipio,Promedio del municipio,4.4773,0.174,4.3559,explica la predicción entregada (modelo final)
+AGC_063,espacial,Patrón espacial de la zona,4.381,0.1419,4.3559,explica la predicción entregada (modelo final)
+AGC_064,vecinas,Rendimiento de las parcelas vecinas,4.6075,0.1941,4.4856,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_064,clim_prec_vegetativa_2025,Lluvia en el crecimiento,337.0917,-0.0362,4.4856,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_064,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.3622,0.019,4.4856,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_064,municipio,Promedio del municipio,4.598,0.2142,4.4856,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_064,espacial,Patrón espacial de la zona,4.3726,0.1391,4.4856,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_065,vecinas,Rendimiento de las parcelas vecinas,4.4707,0.1542,4.5444,explica la predicción entregada (modelo final)
+AGC_065,clim_prec_vegetativa_2025,Lluvia en el crecimiento,166.2383,0.0118,4.5444,explica la predicción entregada (modelo final)
+AGC_065,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,8.6672,0.0554,4.5444,explica la predicción entregada (modelo final)
+AGC_065,municipio,Promedio del municipio,4.521,0.1885,4.5444,explica la predicción entregada (modelo final)
+AGC_065,espacial,Patrón espacial de la zona,4.4928,0.1791,4.5444,explica la predicción entregada (modelo final)
+AGC_066,vecinas,Rendimiento de las parcelas vecinas,2.8942,-0.3055,3.0053,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_066,clim_prec_vegetativa_2025,Lluvia en el crecimiento,61.3534,0.0412,3.0053,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_066,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.7814,-0.0554,3.0053,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_066,municipio,Promedio del municipio,3.0,-0.3185,3.0053,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_066,espacial,Patrón espacial de la zona,3.0198,-0.3119,3.0053,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_067,vecinas,Rendimiento de las parcelas vecinas,3.0309,-0.2656,3.1171,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_067,clim_prec_vegetativa_2025,Lluvia en el crecimiento,199.6711,0.0024,3.1171,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_067,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.9299,-0.0108,3.1171,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_067,municipio,Promedio del municipio,3.0812,-0.2914,3.1171,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_067,espacial,Patrón espacial de la zona,3.1367,-0.2729,3.1171,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_068,vecinas,Rendimiento de las parcelas vecinas,2.9408,-0.2919,3.013,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_068,clim_prec_vegetativa_2025,Lluvia en el crecimiento,82.6259,0.0352,3.013,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_068,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.6822,-0.0502,3.013,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_068,municipio,Promedio del municipio,3.0,-0.3185,3.013,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_068,espacial,Patrón espacial de la zona,3.0044,-0.317,3.013,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_069,vecinas,Rendimiento de las parcelas vecinas,4.4078,0.1359,4.4733,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_069,clim_prec_vegetativa_2025,Lluvia en el crecimiento,140.2483,0.0191,4.4733,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_069,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.6304,0.0049,4.4733,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_069,municipio,Promedio del municipio,4.4773,0.174,4.4733,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_069,espacial,Patrón espacial de la zona,4.5075,0.184,4.4733,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_070,vecinas,Rendimiento de las parcelas vecinas,2.9648,-0.2849,3.1071,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_070,clim_prec_vegetativa_2025,Lluvia en el crecimiento,227.7689,-0.0055,3.1071,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_070,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.6796,0.0023,3.1071,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_070,municipio,Promedio del municipio,3.0812,-0.2914,3.1071,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_070,espacial,Patrón espacial de la zona,3.1489,-0.2688,3.1071,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_071,vecinas,Rendimiento de las parcelas vecinas,3.0891,-0.2487,3.0115,explica la predicción entregada (modelo final)
+AGC_071,clim_prec_vegetativa_2025,Lluvia en el crecimiento,230.2711,-0.0062,3.0115,explica la predicción entregada (modelo final)
+AGC_071,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.7317,-0.0528,3.0115,explica la predicción entregada (modelo final)
+AGC_071,municipio,Promedio del municipio,3.0,-0.3185,3.0115,explica la predicción entregada (modelo final)
+AGC_071,espacial,Patrón espacial de la zona,3.0021,-0.3177,3.0115,explica la predicción entregada (modelo final)
+AGC_072,vecinas,Rendimiento de las parcelas vecinas,4.6035,0.1929,4.538,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_072,clim_prec_vegetativa_2025,Lluvia en el crecimiento,298.5735,-0.0254,4.538,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_072,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.352,0.0195,4.538,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_072,municipio,Promedio del municipio,4.4773,0.174,4.538,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_072,espacial,Patrón espacial de la zona,4.62,0.2216,4.538,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_073,vecinas,Rendimiento de las parcelas vecinas,4.4228,0.1402,4.3933,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_073,clim_prec_vegetativa_2025,Lluvia en el crecimiento,347.386,-0.0391,4.3933,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_073,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.479,0.0129,4.3933,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_073,municipio,Promedio del municipio,4.4773,0.174,4.3933,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_073,espacial,Patrón espacial de la zona,4.4051,0.1499,4.3933,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_074,vecinas,Rendimiento de las parcelas vecinas,3.121,-0.2394,3.0606,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_074,clim_prec_vegetativa_2025,Lluvia en el crecimiento,195.258,0.0036,3.0606,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_074,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.9331,-0.0633,3.0606,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_074,municipio,Promedio del municipio,3.0,-0.3185,3.0606,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_074,espacial,Patrón espacial de la zona,3.1238,-0.2772,3.0606,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_075,vecinas,Rendimiento de las parcelas vecinas,3.0916,-0.2479,3.1017,explica la predicción entregada (modelo final)
+AGC_075,clim_prec_vegetativa_2025,Lluvia en el crecimiento,127.0583,0.0228,3.1017,explica la predicción entregada (modelo final)
+AGC_075,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.457,0.014,3.1017,explica la predicción entregada (modelo final)
+AGC_075,municipio,Promedio del municipio,3.0,-0.3185,3.1017,explica la predicción entregada (modelo final)
+AGC_075,espacial,Patrón espacial de la zona,2.9831,-0.3241,3.1017,explica la predicción entregada (modelo final)
+AGC_076,vecinas,Rendimiento de las parcelas vecinas,4.4274,0.1416,4.4804,explica la predicción entregada (modelo final)
+AGC_076,clim_prec_vegetativa_2025,Lluvia en el crecimiento,122.664,0.024,4.4804,explica la predicción entregada (modelo final)
+AGC_076,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.2797,0.0233,4.4804,explica la predicción entregada (modelo final)
+AGC_076,municipio,Promedio del municipio,4.4773,0.174,4.4804,explica la predicción entregada (modelo final)
+AGC_076,espacial,Patrón espacial de la zona,4.4417,0.1621,4.4804,explica la predicción entregada (modelo final)
+AGC_077,vecinas,Rendimiento de las parcelas vecinas,4.4968,0.1618,4.4956,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_077,clim_prec_vegetativa_2025,Lluvia en el crecimiento,181.7233,0.0074,4.4956,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_077,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.6564,0.0036,4.4956,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_077,municipio,Promedio del municipio,4.4773,0.174,4.4956,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_077,espacial,Patrón espacial de la zona,4.5356,0.1934,4.4956,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_078,vecinas,Rendimiento de las parcelas vecinas,3.1328,-0.2359,3.1412,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_078,clim_prec_vegetativa_2025,Lluvia en el crecimiento,181.0041,0.0076,3.1412,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_078,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.0159,-0.0153,3.1412,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_078,municipio,Promedio del municipio,3.0812,-0.2914,3.1412,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_078,espacial,Patrón espacial de la zona,3.1178,-0.2792,3.1412,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_079,vecinas,Rendimiento de las parcelas vecinas,2.8501,-0.3183,3.0607,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_079,clim_prec_vegetativa_2025,Lluvia en el crecimiento,302.8522,-0.0266,3.0607,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_079,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.6931,0.0016,3.0607,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_079,municipio,Promedio del municipio,3.0812,-0.2914,3.0607,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_079,espacial,Patrón espacial de la zona,3.1754,-0.26,3.0607,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_080,vecinas,Rendimiento de las parcelas vecinas,3.1538,-0.2298,3.1534,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_080,clim_prec_vegetativa_2025,Lluvia en el crecimiento,220.2687,-0.0034,3.1534,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_080,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.8657,-0.0074,3.1534,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_080,municipio,Promedio del municipio,3.0812,-0.2914,3.1534,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_080,espacial,Patrón espacial de la zona,3.1453,-0.27,3.1534,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_081,vecinas,Rendimiento de las parcelas vecinas,2.9594,-0.2865,3.1396,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_081,clim_prec_vegetativa_2025,Lluvia en el crecimiento,243.7288,-0.01,3.1396,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_081,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.6883,0.0019,3.1396,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_081,municipio,Promedio del municipio,3.0812,-0.2914,3.1396,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_081,espacial,Patrón espacial de la zona,3.2661,-0.2298,3.1396,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_082,vecinas,Rendimiento de las parcelas vecinas,4.4759,0.1557,4.4483,explica la predicción entregada (modelo final)
+AGC_082,clim_prec_vegetativa_2025,Lluvia en el crecimiento,275.1366,-0.0188,4.4483,explica la predicción entregada (modelo final)
+AGC_082,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.5416,0.0096,4.4483,explica la predicción entregada (modelo final)
+AGC_082,municipio,Promedio del municipio,4.521,0.1885,4.4483,explica la predicción entregada (modelo final)
+AGC_082,espacial,Patrón espacial de la zona,4.429,0.1579,4.4483,explica la predicción entregada (modelo final)
+AGC_083,vecinas,Rendimiento de las parcelas vecinas,4.2395,0.0868,4.3897,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_083,clim_prec_vegetativa_2025,Lluvia en el crecimiento,137.458,0.0198,4.3897,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_083,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.5591,0.0087,4.3897,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_083,municipio,Promedio del municipio,4.598,0.2142,4.3897,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_083,espacial,Patrón espacial de la zona,4.2697,0.1048,4.3897,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_084,vecinas,Rendimiento de las parcelas vecinas,4.5032,0.1637,4.4456,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_084,clim_prec_vegetativa_2025,Lluvia en el crecimiento,267.2547,-0.0166,4.4456,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_084,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.9218,-0.0103,4.4456,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_084,municipio,Promedio del municipio,4.521,0.1885,4.4456,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_084,espacial,Patrón espacial de la zona,4.4501,0.1649,4.4456,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_085,vecinas,Rendimiento de las parcelas vecinas,4.292,0.1021,4.3674,explica la predicción entregada (modelo final)
+AGC_085,clim_prec_vegetativa_2025,Lluvia en el crecimiento,386.9987,-0.0502,4.3674,explica la predicción entregada (modelo final)
+AGC_085,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.3565,0.0193,4.3674,explica la predicción entregada (modelo final)
+AGC_085,municipio,Promedio del municipio,4.4773,0.174,4.3674,explica la predicción entregada (modelo final)
+AGC_085,espacial,Patrón espacial de la zona,4.4558,0.1668,4.3674,explica la predicción entregada (modelo final)
+AGC_086,vecinas,Rendimiento de las parcelas vecinas,2.9079,-0.3015,3.0017,explica la predicción entregada (modelo final)
+AGC_086,clim_prec_vegetativa_2025,Lluvia en el crecimiento,112.8015,0.0268,3.0017,explica la predicción entregada (modelo final)
+AGC_086,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.4453,-0.0378,3.0017,explica la predicción entregada (modelo final)
+AGC_086,municipio,Promedio del municipio,3.0,-0.3185,3.0017,explica la predicción entregada (modelo final)
+AGC_086,espacial,Patrón espacial de la zona,2.9872,-0.3227,3.0017,explica la predicción entregada (modelo final)
+AGC_087,vecinas,Rendimiento de las parcelas vecinas,2.8225,-0.3264,2.9582,explica la predicción entregada (modelo final)
+AGC_087,clim_prec_vegetativa_2025,Lluvia en el crecimiento,163.566,0.0125,2.9582,explica la predicción entregada (modelo final)
+AGC_087,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.7595,-0.0542,2.9582,explica la predicción entregada (modelo final)
+AGC_087,municipio,Promedio del municipio,3.0,-0.3185,2.9582,explica la predicción entregada (modelo final)
+AGC_087,espacial,Patrón espacial de la zona,3.0235,-0.3106,2.9582,explica la predicción entregada (modelo final)
+AGC_088,vecinas,Rendimiento de las parcelas vecinas,4.4948,0.1612,4.516,explica la predicción entregada (modelo final)
+AGC_088,clim_prec_vegetativa_2025,Lluvia en el crecimiento,241.2944,-0.0093,4.516,explica la predicción entregada (modelo final)
+AGC_088,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.5001,0.0118,4.516,explica la predicción entregada (modelo final)
+AGC_088,municipio,Promedio del municipio,4.4773,0.174,4.516,explica la predicción entregada (modelo final)
+AGC_088,espacial,Patrón espacial de la zona,4.624,0.2229,4.516,explica la predicción entregada (modelo final)
+AGC_089,vecinas,Rendimiento de las parcelas vecinas,3.0501,-0.26,3.1303,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_089,clim_prec_vegetativa_2025,Lluvia en el crecimiento,202.93,0.0015,3.1303,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_089,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.6927,0.0017,3.1303,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_089,municipio,Promedio del municipio,3.0812,-0.2914,3.1303,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_089,espacial,Patrón espacial de la zona,3.1246,-0.2769,3.1303,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_090,vecinas,Rendimiento de las parcelas vecinas,4.4592,0.1509,4.4012,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_090,clim_prec_vegetativa_2025,Lluvia en el crecimiento,258.8063,-0.0142,4.4012,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_090,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.682,0.0022,4.4012,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_090,municipio,Promedio del municipio,4.4773,0.174,4.4012,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_090,espacial,Patrón espacial de la zona,4.354,0.1329,4.4012,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_091,vecinas,Rendimiento de las parcelas vecinas,4.5159,0.1674,4.5173,explica la predicción entregada (modelo final)
+AGC_091,clim_prec_vegetativa_2025,Lluvia en el crecimiento,112.006,0.027,4.5173,explica la predicción entregada (modelo final)
+AGC_091,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.5586,0.0087,4.5173,explica la predicción entregada (modelo final)
+AGC_091,municipio,Promedio del municipio,4.4773,0.174,4.5173,explica la predicción entregada (modelo final)
+AGC_091,espacial,Patrón espacial de la zona,4.5098,0.1848,4.5173,explica la predicción entregada (modelo final)
+AGC_092,vecinas,Rendimiento de las parcelas vecinas,4.5451,0.1759,4.5239,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_092,clim_prec_vegetativa_2025,Lluvia en el crecimiento,176.065,0.009,4.5239,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_092,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.2442,0.0252,4.5239,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_092,municipio,Promedio del municipio,4.4773,0.174,4.5239,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_092,espacial,Patrón espacial de la zona,4.5087,0.1844,4.5239,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_093,vecinas,Rendimiento de las parcelas vecinas,3.1014,-0.2451,2.998,explica la predicción entregada (modelo final)
+AGC_093,clim_prec_vegetativa_2025,Lluvia en el crecimiento,318.9586,-0.0311,2.998,explica la predicción entregada (modelo final)
+AGC_093,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.4752,-0.0393,2.998,explica la predicción entregada (modelo final)
+AGC_093,municipio,Promedio del municipio,3.0,-0.3185,2.998,explica la predicción entregada (modelo final)
+AGC_093,espacial,Patrón espacial de la zona,2.9852,-0.3234,2.998,explica la predicción entregada (modelo final)
+AGC_094,vecinas,Rendimiento de las parcelas vecinas,4.8658,0.2694,4.6929,explica la predicción entregada (modelo final)
+AGC_094,clim_prec_vegetativa_2025,Lluvia en el crecimiento,130.947,0.0217,4.6929,explica la predicción entregada (modelo final)
+AGC_094,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,8.8595,0.0453,4.6929,explica la predicción entregada (modelo final)
+AGC_094,municipio,Promedio del municipio,4.4773,0.174,4.6929,explica la predicción entregada (modelo final)
+AGC_094,espacial,Patrón espacial de la zona,4.6366,0.2271,4.6929,explica la predicción entregada (modelo final)
+AGC_095,vecinas,Rendimiento de las parcelas vecinas,4.4774,0.1562,4.437,explica la predicción entregada (modelo final)
+AGC_095,clim_prec_vegetativa_2025,Lluvia en el crecimiento,288.2284,-0.0225,4.437,explica la predicción entregada (modelo final)
+AGC_095,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.6273,0.0051,4.437,explica la predicción entregada (modelo final)
+AGC_095,municipio,Promedio del municipio,4.4773,0.174,4.437,explica la predicción entregada (modelo final)
+AGC_095,espacial,Patrón espacial de la zona,4.4618,0.1688,4.437,explica la predicción entregada (modelo final)
+AGC_096,vecinas,Rendimiento de las parcelas vecinas,4.3216,0.1107,4.3961,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_096,clim_prec_vegetativa_2025,Lluvia en el crecimiento,190.3176,0.005,4.3961,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_096,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.7832,-0.0031,4.3961,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_096,municipio,Promedio del municipio,4.4773,0.174,4.3961,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_096,espacial,Patrón espacial de la zona,4.4176,0.1541,4.3961,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_097,vecinas,Rendimiento de las parcelas vecinas,4.7608,0.2388,4.6505,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_097,clim_prec_vegetativa_2025,Lluvia en el crecimiento,88.0878,0.0337,4.6505,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_097,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,8.9225,0.042,4.6505,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_097,municipio,Promedio del municipio,4.4773,0.174,4.6505,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_097,espacial,Patrón espacial de la zona,4.5752,0.2066,4.6505,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_098,vecinas,Rendimiento de las parcelas vecinas,3.0867,-0.2494,3.0098,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_098,clim_prec_vegetativa_2025,Lluvia en el crecimiento,346.3447,-0.0388,3.0098,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_098,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.2715,-0.0287,3.0098,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_098,municipio,Promedio del municipio,3.0,-0.3185,3.0098,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_098,espacial,Patrón espacial de la zona,3.0248,-0.3102,3.0098,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_099,vecinas,Rendimiento de las parcelas vecinas,2.965,-0.2848,3.0179,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_099,clim_prec_vegetativa_2025,Lluvia en el crecimiento,141.9776,0.0186,3.0179,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_099,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.324,-0.0314,3.0179,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_099,municipio,Promedio del municipio,3.0,-0.3185,3.0179,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_099,espacial,Patrón espacial de la zona,2.9912,-0.3214,3.0179,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_100,vecinas,Rendimiento de las parcelas vecinas,4.4635,0.1521,4.4226,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_100,clim_prec_vegetativa_2025,Lluvia en el crecimiento,148.3429,0.0168,4.4226,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_100,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.7595,-0.0018,4.4226,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_100,municipio,Promedio del municipio,4.4773,0.174,4.4226,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_100,espacial,Patrón espacial de la zona,4.3336,0.1261,4.4226,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_101,vecinas,Rendimiento de las parcelas vecinas,4.2055,0.0769,4.3386,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_101,clim_prec_vegetativa_2025,Lluvia en el crecimiento,253.9375,-0.0128,4.3386,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_101,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.678,0.0024,4.3386,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_101,municipio,Promedio del municipio,4.4773,0.174,4.3386,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_101,espacial,Patrón espacial de la zona,4.3834,0.1427,4.3386,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_102,vecinas,Rendimiento de las parcelas vecinas,4.2469,0.089,4.3616,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_102,clim_prec_vegetativa_2025,Lluvia en el crecimiento,161.8991,0.013,4.3616,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_102,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.8475,-0.0064,4.3616,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_102,municipio,Promedio del municipio,4.4773,0.174,4.3616,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_102,espacial,Patrón espacial de la zona,4.365,0.1366,4.3616,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_103,vecinas,Rendimiento de las parcelas vecinas,2.984,-0.2793,3.0148,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_103,clim_prec_vegetativa_2025,Lluvia en el crecimiento,150.4559,0.0162,3.0148,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_103,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.737,-0.053,3.0148,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_103,municipio,Promedio del municipio,3.0,-0.3185,3.0148,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_103,espacial,Patrón espacial de la zona,3.0375,-0.306,3.0148,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_104,vecinas,Rendimiento de las parcelas vecinas,4.5567,0.1793,4.4579,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_104,clim_prec_vegetativa_2025,Lluvia en el crecimiento,362.0543,-0.0432,4.4579,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_104,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.3345,0.0204,4.4579,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_104,municipio,Promedio del municipio,4.4773,0.174,4.4579,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_104,espacial,Patrón espacial de la zona,4.4713,0.172,4.4579,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_105,vecinas,Rendimiento de las parcelas vecinas,4.2323,0.0847,4.3366,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_105,clim_prec_vegetativa_2025,Lluvia en el crecimiento,436.442,-0.0641,4.3366,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_105,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.2396,0.0254,4.3366,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_105,municipio,Promedio del municipio,4.4773,0.174,4.3366,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_105,espacial,Patrón espacial de la zona,4.4391,0.1612,4.3366,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_106,vecinas,Rendimiento de las parcelas vecinas,4.2474,0.0891,4.4704,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_106,clim_prec_vegetativa_2025,Lluvia en el crecimiento,139.0989,0.0194,4.4704,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_106,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,8.3717,0.0709,4.4704,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_106,municipio,Promedio del municipio,4.4773,0.174,4.4704,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_106,espacial,Patrón espacial de la zona,4.4402,0.1616,4.4704,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_107,vecinas,Rendimiento de las parcelas vecinas,4.4815,0.1574,4.4666,explica la predicción entregada (modelo final)
+AGC_107,clim_prec_vegetativa_2025,Lluvia en el crecimiento,264.3406,-0.0158,4.4666,explica la predicción entregada (modelo final)
+AGC_107,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.2445,0.0251,4.4666,explica la predicción entregada (modelo final)
+AGC_107,municipio,Promedio del municipio,4.521,0.1885,4.4666,explica la predicción entregada (modelo final)
+AGC_107,espacial,Patrón espacial de la zona,4.4235,0.156,4.4666,explica la predicción entregada (modelo final)
+AGC_108,vecinas,Rendimiento de las parcelas vecinas,4.7926,0.2481,4.6628,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_108,clim_prec_vegetativa_2025,Lluvia en el crecimiento,101.4622,0.0299,4.6628,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_108,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.5276,0.0103,4.6628,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_108,municipio,Promedio del municipio,4.4773,0.174,4.6628,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_108,espacial,Patrón espacial de la zona,4.6907,0.2451,4.6628,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_109,vecinas,Rendimiento de las parcelas vecinas,4.623,0.1986,4.5195,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_109,clim_prec_vegetativa_2025,Lluvia en el crecimiento,367.489,-0.0447,4.5195,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_109,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.1367,0.0308,4.5195,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_109,municipio,Promedio del municipio,4.4773,0.174,4.5195,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_109,espacial,Patrón espacial de la zona,4.5716,0.2054,4.5195,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_110,vecinas,Rendimiento de las parcelas vecinas,4.3266,0.1122,4.4197,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_110,clim_prec_vegetativa_2025,Lluvia en el crecimiento,143.941,0.018,4.4197,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_110,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.7532,-0.0015,4.4197,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_110,municipio,Promedio del municipio,4.4773,0.174,4.4197,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_110,espacial,Patrón espacial de la zona,4.4401,0.1616,4.4197,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_111,vecinas,Rendimiento de las parcelas vecinas,4.483,0.1578,4.5224,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_111,clim_prec_vegetativa_2025,Lluvia en el crecimiento,168.1602,0.0112,4.5224,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_111,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.4337,0.0152,4.5224,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_111,municipio,Promedio del municipio,4.4773,0.174,4.5224,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_111,espacial,Patrón espacial de la zona,4.5816,0.2088,4.5224,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_112,vecinas,Rendimiento de las parcelas vecinas,2.8249,-0.3257,2.9542,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_112,clim_prec_vegetativa_2025,Lluvia en el crecimiento,132.8734,0.0211,2.9542,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_112,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.8232,-0.0576,2.9542,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_112,municipio,Promedio del municipio,3.0,-0.3185,2.9542,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_112,espacial,Patrón espacial de la zona,2.9939,-0.3205,2.9542,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_113,vecinas,Rendimiento de las parcelas vecinas,2.9966,-0.2756,3.1016,explica la predicción entregada (modelo final)
+AGC_113,clim_prec_vegetativa_2025,Lluvia en el crecimiento,296.0164,-0.0247,3.1016,explica la predicción entregada (modelo final)
+AGC_113,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.7008,0.0012,3.1016,explica la predicción entregada (modelo final)
+AGC_113,municipio,Promedio del municipio,3.0812,-0.2914,3.1016,explica la predicción entregada (modelo final)
+AGC_113,espacial,Patrón espacial de la zona,3.1655,-0.2633,3.1016,explica la predicción entregada (modelo final)
+AGC_114,vecinas,Rendimiento de las parcelas vecinas,3.096,-0.2466,3.0215,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_114,clim_prec_vegetativa_2025,Lluvia en el crecimiento,190.244,0.005,3.0215,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_114,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.8375,-0.0583,3.0215,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_114,municipio,Promedio del municipio,3.0,-0.3185,3.0215,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_114,espacial,Patrón espacial de la zona,3.009,-0.3155,3.0215,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_115,vecinas,Rendimiento de las parcelas vecinas,4.3113,0.1077,4.3579,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_115,clim_prec_vegetativa_2025,Lluvia en el crecimiento,377.168,-0.0474,4.3579,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_115,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.3701,0.0186,4.3579,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_115,municipio,Promedio del municipio,4.4773,0.174,4.3579,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_115,espacial,Patrón espacial de la zona,4.4041,0.1496,4.3579,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_116,vecinas,Rendimiento de las parcelas vecinas,4.3554,0.1206,4.3772,explica la predicción entregada (modelo final)
+AGC_116,clim_prec_vegetativa_2025,Lluvia en el crecimiento,305.8836,-0.0274,4.3772,explica la predicción entregada (modelo final)
+AGC_116,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.7543,-0.0016,4.3772,explica la predicción entregada (modelo final)
+AGC_116,municipio,Promedio del municipio,4.4773,0.174,4.3772,explica la predicción entregada (modelo final)
+AGC_116,espacial,Patrón espacial de la zona,4.4239,0.1562,4.3772,explica la predicción entregada (modelo final)
+AGC_117,vecinas,Rendimiento de las parcelas vecinas,3.1505,-0.2307,3.0742,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_117,clim_prec_vegetativa_2025,Lluvia en el crecimiento,177.5473,0.0086,3.0742,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_117,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.2966,-0.03,3.0742,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_117,municipio,Promedio del municipio,3.0,-0.3185,3.0742,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_117,espacial,Patrón espacial de la zona,3.0235,-0.3106,3.0742,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_118,vecinas,Rendimiento de las parcelas vecinas,3.1149,-0.2411,3.1424,explica la predicción entregada (modelo final)
+AGC_118,clim_prec_vegetativa_2025,Lluvia en el crecimiento,153.1704,0.0154,3.1424,explica la predicción entregada (modelo final)
+AGC_118,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.1882,-0.0243,3.1424,explica la predicción entregada (modelo final)
+AGC_118,municipio,Promedio del municipio,3.0812,-0.2914,3.1424,explica la predicción entregada (modelo final)
+AGC_118,espacial,Patrón espacial de la zona,3.1404,-0.2716,3.1424,explica la predicción entregada (modelo final)
+AGC_119,vecinas,Rendimiento de las parcelas vecinas,4.7127,0.2248,4.5157,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_119,clim_prec_vegetativa_2025,Lluvia en el crecimiento,311.317,-0.029,4.5157,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_119,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.456,0.0141,4.5157,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_119,municipio,Promedio del municipio,4.598,0.2142,4.5157,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_119,espacial,Patrón espacial de la zona,4.364,0.1362,4.5157,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_120,vecinas,Rendimiento de las parcelas vecinas,2.9837,-0.2794,2.8297,explica la predicción entregada (modelo final)
+AGC_120,clim_prec_vegetativa_2025,Lluvia en el crecimiento,237.552,-0.0083,2.8297,explica la predicción entregada (modelo final)
+AGC_120,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.8406,-0.0585,2.8297,explica la predicción entregada (modelo final)
+AGC_120,municipio,Promedio del municipio,2.5,-0.4851,2.8297,explica la predicción entregada (modelo final)
+AGC_120,espacial,Patrón espacial de la zona,3.072,-0.2944,2.8297,explica la predicción entregada (modelo final)
+AGC_121,vecinas,Rendimiento de las parcelas vecinas,3.0358,-0.2642,3.111,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_121,clim_prec_vegetativa_2025,Lluvia en el crecimiento,194.0956,0.0039,3.111,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_121,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.0244,-0.0157,3.111,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_121,municipio,Promedio del municipio,3.0812,-0.2914,3.111,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_121,espacial,Patrón espacial de la zona,3.1244,-0.277,3.111,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_122,vecinas,Rendimiento de las parcelas vecinas,2.9594,-0.2865,2.9422,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_122,clim_prec_vegetativa_2025,Lluvia en el crecimiento,396.8651,-0.053,2.9422,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_122,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.8416,-0.0585,2.9422,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_122,municipio,Promedio del municipio,3.0,-0.3185,2.9422,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_122,espacial,Patrón espacial de la zona,3.0652,-0.2967,2.9422,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_123,vecinas,Rendimiento de las parcelas vecinas,3.2399,-0.2047,3.0474,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_123,clim_prec_vegetativa_2025,Lluvia en el crecimiento,294.6507,-0.0243,3.0474,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_123,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.8316,-0.058,3.0474,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_123,municipio,Promedio del municipio,3.0,-0.3185,3.0474,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_123,espacial,Patrón espacial de la zona,3.0479,-0.3025,3.0474,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_124,vecinas,Rendimiento de las parcelas vecinas,4.369,0.1246,4.5113,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_124,clim_prec_vegetativa_2025,Lluvia en el crecimiento,74.8722,0.0374,4.5113,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_124,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.1757,0.0287,4.5113,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_124,municipio,Promedio del municipio,4.4773,0.174,4.5113,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_124,espacial,Patrón espacial de la zona,4.529,0.1912,4.5113,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_125,vecinas,Rendimiento de las parcelas vecinas,4.328,0.1126,4.4771,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_125,clim_prec_vegetativa_2025,Lluvia en el crecimiento,170.5742,0.0105,4.4771,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_125,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,8.4575,0.0664,4.4771,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_125,municipio,Promedio del municipio,4.4773,0.174,4.4771,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_125,espacial,Patrón espacial de la zona,4.4299,0.1582,4.4771,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_126,vecinas,Rendimiento de las parcelas vecinas,4.5429,0.1753,4.5448,explica la predicción entregada (modelo final)
+AGC_126,clim_prec_vegetativa_2025,Lluvia en el crecimiento,188.0233,0.0056,4.5448,explica la predicción entregada (modelo final)
+AGC_126,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.3425,0.02,4.5448,explica la predicción entregada (modelo final)
+AGC_126,municipio,Promedio del municipio,4.4773,0.174,4.5448,explica la predicción entregada (modelo final)
+AGC_126,espacial,Patrón espacial de la zona,4.599,0.2145,4.5448,explica la predicción entregada (modelo final)
+AGC_127,vecinas,Rendimiento de las parcelas vecinas,4.5319,0.1721,4.4595,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_127,clim_prec_vegetativa_2025,Lluvia en el crecimiento,307.7966,-0.028,4.4595,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_127,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.6122,0.0059,4.4595,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_127,municipio,Promedio del municipio,4.4773,0.174,4.4595,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_127,espacial,Patrón espacial de la zona,4.4956,0.1801,4.4595,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_128,vecinas,Rendimiento de las parcelas vecinas,4.4998,0.1627,4.5404,explica la predicción entregada (modelo final)
+AGC_128,clim_prec_vegetativa_2025,Lluvia en el crecimiento,148.1601,0.0168,4.5404,explica la predicción entregada (modelo final)
+AGC_128,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,8.5744,0.0602,4.5404,explica la predicción entregada (modelo final)
+AGC_128,municipio,Promedio del municipio,4.521,0.1885,4.5404,explica la predicción entregada (modelo final)
+AGC_128,espacial,Patrón espacial de la zona,4.4259,0.1568,4.5404,explica la predicción entregada (modelo final)
+AGC_129,vecinas,Rendimiento de las parcelas vecinas,3.2231,-0.2096,3.1792,explica la predicción entregada (modelo final)
+AGC_129,clim_prec_vegetativa_2025,Lluvia en el crecimiento,357.5381,-0.0419,3.1792,explica la predicción entregada (modelo final)
+AGC_129,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.6423,0.0043,3.1792,explica la predicción entregada (modelo final)
+AGC_129,municipio,Promedio del municipio,3.0812,-0.2914,3.1792,explica la predicción entregada (modelo final)
+AGC_129,espacial,Patrón espacial de la zona,3.2425,-0.2376,3.1792,explica la predicción entregada (modelo final)
+AGC_130,vecinas,Rendimiento de las parcelas vecinas,4.5506,0.1775,4.5543,explica la predicción entregada (modelo final)
+AGC_130,clim_prec_vegetativa_2025,Lluvia en el crecimiento,166.4391,0.0117,4.5543,explica la predicción entregada (modelo final)
+AGC_130,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,8.7725,0.0499,4.5543,explica la predicción entregada (modelo final)
+AGC_130,municipio,Promedio del municipio,4.598,0.2142,4.5543,explica la predicción entregada (modelo final)
+AGC_130,espacial,Patrón espacial de la zona,4.3921,0.1456,4.5543,explica la predicción entregada (modelo final)
+AGC_131,vecinas,Rendimiento de las parcelas vecinas,4.3318,0.1137,4.4108,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_131,clim_prec_vegetativa_2025,Lluvia en el crecimiento,185.4488,0.0064,4.4108,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_131,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.7803,-0.0029,4.4108,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_131,municipio,Promedio del municipio,4.4773,0.174,4.4108,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_131,espacial,Patrón espacial de la zona,4.448,0.1642,4.4108,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_132,vecinas,Rendimiento de las parcelas vecinas,4.6453,0.2051,4.5694,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_132,clim_prec_vegetativa_2025,Lluvia en el crecimiento,240.5415,-0.0091,4.5694,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_132,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.4541,0.0142,4.5694,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_132,municipio,Promedio del municipio,4.4773,0.174,4.5694,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_132,espacial,Patrón espacial de la zona,4.6449,0.2298,4.5694,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_133,vecinas,Rendimiento de las parcelas vecinas,4.6803,0.2153,4.5519,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_133,clim_prec_vegetativa_2025,Lluvia en el crecimiento,231.7535,-0.0066,4.5519,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_133,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.4612,0.0138,4.5519,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_133,municipio,Promedio del municipio,4.4773,0.174,4.5519,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_133,espacial,Patrón espacial de la zona,4.5554,0.2,4.5519,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_134,vecinas,Rendimiento de las parcelas vecinas,4.3228,0.1111,4.4743,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_134,clim_prec_vegetativa_2025,Lluvia en el crecimiento,134.7001,0.0206,4.4743,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_134,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,8.9866,0.0386,4.4743,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_134,municipio,Promedio del municipio,4.521,0.1885,4.4743,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_134,espacial,Patrón espacial de la zona,4.4355,0.1601,4.4743,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_135,vecinas,Rendimiento de las parcelas vecinas,4.6004,0.192,4.559,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_135,clim_prec_vegetativa_2025,Lluvia en el crecimiento,168.9236,0.011,4.559,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_135,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.385,0.0178,4.559,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_135,municipio,Promedio del municipio,4.4773,0.174,4.559,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_135,espacial,Patrón espacial de la zona,4.5817,0.2088,4.559,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_136,vecinas,Rendimiento de las parcelas vecinas,4.4925,0.1606,4.4228,explica la predicción entregada (modelo final)
+AGC_136,clim_prec_vegetativa_2025,Lluvia en el crecimiento,432.6258,-0.063,4.4228,explica la predicción entregada (modelo final)
+AGC_136,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.2186,0.0265,4.4228,explica la predicción entregada (modelo final)
+AGC_136,municipio,Promedio del municipio,4.4773,0.174,4.4228,explica la predicción entregada (modelo final)
+AGC_136,espacial,Patrón espacial de la zona,4.4634,0.1693,4.4228,explica la predicción entregada (modelo final)
+AGC_137,vecinas,Rendimiento de las parcelas vecinas,4.5927,0.1898,4.4789,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_137,clim_prec_vegetativa_2025,Lluvia en el crecimiento,320.3819,-0.0315,4.4789,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_137,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.6608,0.0033,4.4789,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_137,municipio,Promedio del municipio,4.521,0.1885,4.4789,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_137,espacial,Patrón espacial de la zona,4.4756,0.1734,4.4789,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_138,vecinas,Rendimiento de las parcelas vecinas,3.2194,-0.2107,3.0566,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_138,clim_prec_vegetativa_2025,Lluvia en el crecimiento,190.533,0.0049,3.0566,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_138,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.8042,-0.0566,3.0566,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_138,municipio,Promedio del municipio,3.0,-0.3185,3.0566,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_138,espacial,Patrón espacial de la zona,3.0016,-0.3179,3.0566,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_139,vecinas,Rendimiento de las parcelas vecinas,4.2315,0.0845,4.3384,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_139,clim_prec_vegetativa_2025,Lluvia en el crecimiento,340.5626,-0.0372,4.3384,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_139,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.4792,0.0128,4.3384,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_139,municipio,Promedio del municipio,4.4773,0.174,4.3384,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_139,espacial,Patrón espacial de la zona,4.402,0.1489,4.3384,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_140,vecinas,Rendimiento de las parcelas vecinas,3.1698,-0.2251,3.1263,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_140,clim_prec_vegetativa_2025,Lluvia en el crecimiento,315.6894,-0.0302,3.1263,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_140,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.8296,-0.0055,3.1263,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_140,municipio,Promedio del municipio,3.0812,-0.2914,3.1263,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_140,espacial,Patrón espacial de la zona,3.1246,-0.2769,3.1263,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_141,vecinas,Rendimiento de las parcelas vecinas,3.0057,-0.273,3.0251,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_141,clim_prec_vegetativa_2025,Lluvia en el crecimiento,122.5409,0.024,3.0251,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_141,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.4648,-0.0388,3.0251,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_141,municipio,Promedio del municipio,3.0,-0.3185,3.0251,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_141,espacial,Patrón espacial de la zona,2.9835,-0.324,3.0251,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_142,vecinas,Rendimiento de las parcelas vecinas,4.6329,0.2015,4.5144,explica la predicción entregada (modelo final)
+AGC_142,clim_prec_vegetativa_2025,Lluvia en el crecimiento,349.3225,-0.0396,4.5144,explica la predicción entregada (modelo final)
+AGC_142,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.1366,0.0308,4.5144,explica la predicción entregada (modelo final)
+AGC_142,municipio,Promedio del municipio,4.4773,0.174,4.5144,explica la predicción entregada (modelo final)
+AGC_142,espacial,Patrón espacial de la zona,4.5322,0.1923,4.5144,explica la predicción entregada (modelo final)
+AGC_143,vecinas,Rendimiento de las parcelas vecinas,4.5241,0.1698,4.4157,explica la predicción entregada (modelo final)
+AGC_143,clim_prec_vegetativa_2025,Lluvia en el crecimiento,277.8417,-0.0196,4.4157,explica la predicción entregada (modelo final)
+AGC_143,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.7195,0.0003,4.4157,explica la predicción entregada (modelo final)
+AGC_143,municipio,Promedio del municipio,4.4773,0.174,4.4157,explica la predicción entregada (modelo final)
+AGC_143,espacial,Patrón espacial de la zona,4.3628,0.1358,4.4157,explica la predicción entregada (modelo final)
+AGC_144,vecinas,Rendimiento de las parcelas vecinas,3.0536,-0.259,3.0513,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_144,clim_prec_vegetativa_2025,Lluvia en el crecimiento,142.6943,0.0184,3.0513,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_144,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.6364,-0.0478,3.0513,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_144,municipio,Promedio del municipio,3.0,-0.3185,3.0513,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_144,espacial,Patrón espacial de la zona,3.0639,-0.2972,3.0513,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_145,vecinas,Rendimiento de las parcelas vecinas,2.8858,-0.3079,2.9839,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_145,clim_prec_vegetativa_2025,Lluvia en el crecimiento,173.6023,0.0097,2.9839,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_145,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.6722,-0.0496,2.9839,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_145,municipio,Promedio del municipio,3.0,-0.3185,2.9839,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_145,espacial,Patrón espacial de la zona,3.0398,-0.3052,2.9839,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_146,vecinas,Rendimiento de las parcelas vecinas,4.4412,0.1456,4.4515,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_146,clim_prec_vegetativa_2025,Lluvia en el crecimiento,264.5325,-0.0158,4.4515,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_146,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.3087,0.0218,4.4515,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_146,municipio,Promedio del municipio,4.521,0.1885,4.4515,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_146,espacial,Patrón espacial de la zona,4.4233,0.156,4.4515,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_147,vecinas,Rendimiento de las parcelas vecinas,2.9279,-0.2956,3.0036,explica la predicción entregada (modelo final)
+AGC_147,clim_prec_vegetativa_2025,Lluvia en el crecimiento,159.6254,0.0136,3.0036,explica la predicción entregada (modelo final)
+AGC_147,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.7677,-0.0547,3.0036,explica la predicción entregada (modelo final)
+AGC_147,municipio,Promedio del municipio,3.0,-0.3185,3.0036,explica la predicción entregada (modelo final)
+AGC_147,espacial,Patrón espacial de la zona,3.0655,-0.2966,3.0036,explica la predicción entregada (modelo final)
+AGC_148,vecinas,Rendimiento de las parcelas vecinas,3.044,-0.2618,3.1158,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_148,clim_prec_vegetativa_2025,Lluvia en el crecimiento,178.1089,0.0084,3.1158,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_148,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.0491,-0.017,3.1158,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_148,municipio,Promedio del municipio,3.0812,-0.2914,3.1158,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_148,espacial,Patrón espacial de la zona,3.1219,-0.2778,3.1158,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_149,vecinas,Rendimiento de las parcelas vecinas,4.5622,0.1809,4.4711,explica la predicción entregada (modelo final)
+AGC_149,clim_prec_vegetativa_2025,Lluvia en el crecimiento,344.8269,-0.0384,4.4711,explica la predicción entregada (modelo final)
+AGC_149,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.2897,0.0228,4.4711,explica la predicción entregada (modelo final)
+AGC_149,municipio,Promedio del municipio,4.598,0.2142,4.4711,explica la predicción entregada (modelo final)
+AGC_149,espacial,Patrón espacial de la zona,4.3639,0.1362,4.4711,explica la predicción entregada (modelo final)
+AGC_150,vecinas,Rendimiento de las parcelas vecinas,4.5781,0.1855,4.4839,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_150,clim_prec_vegetativa_2025,Lluvia en el crecimiento,319.7087,-0.0313,4.4839,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_150,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.2035,0.0273,4.4839,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_150,municipio,Promedio del municipio,4.4773,0.174,4.4839,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_150,espacial,Patrón espacial de la zona,4.4742,0.173,4.4839,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_151,vecinas,Rendimiento de las parcelas vecinas,4.6017,0.1924,4.5766,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_151,clim_prec_vegetativa_2025,Lluvia en el crecimiento,162.2431,0.0129,4.5766,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_151,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,8.6713,0.0552,4.5766,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_151,municipio,Promedio del municipio,4.521,0.1885,4.5766,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_151,espacial,Patrón espacial de la zona,4.4718,0.1722,4.5766,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_152,vecinas,Rendimiento de las parcelas vecinas,4.5365,0.1734,4.5555,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_152,clim_prec_vegetativa_2025,Lluvia en el crecimiento,139.8471,0.0192,4.5555,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_152,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,8.7662,0.0502,4.5555,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_152,municipio,Promedio del municipio,4.521,0.1885,4.5555,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_152,espacial,Patrón espacial de la zona,4.4618,0.1688,4.5555,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_153,vecinas,Rendimiento de las parcelas vecinas,4.1268,0.0539,4.3103,explica la predicción entregada (modelo final)
+AGC_153,clim_prec_vegetativa_2025,Lluvia en el crecimiento,408.5681,-0.0562,4.3103,explica la predicción entregada (modelo final)
+AGC_153,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.3408,0.0201,4.3103,explica la predicción entregada (modelo final)
+AGC_153,municipio,Promedio del municipio,4.4773,0.174,4.3103,explica la predicción entregada (modelo final)
+AGC_153,espacial,Patrón espacial de la zona,4.4446,0.1631,4.3103,explica la predicción entregada (modelo final)
+AGC_154,vecinas,Rendimiento de las parcelas vecinas,4.4747,0.1554,4.4671,explica la predicción entregada (modelo final)
+AGC_154,clim_prec_vegetativa_2025,Lluvia en el crecimiento,185.3981,0.0064,4.4671,explica la predicción entregada (modelo final)
+AGC_154,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.5426,0.0095,4.4671,explica la predicción entregada (modelo final)
+AGC_154,municipio,Promedio del municipio,4.4773,0.174,4.4671,explica la predicción entregada (modelo final)
+AGC_154,espacial,Patrón espacial de la zona,4.4546,0.1664,4.4671,explica la predicción entregada (modelo final)
+AGC_155,vecinas,Rendimiento de las parcelas vecinas,4.8093,0.253,4.6551,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_155,clim_prec_vegetativa_2025,Lluvia en el crecimiento,94.0514,0.032,4.6551,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_155,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.5461,0.0093,4.6551,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_155,municipio,Promedio del municipio,4.4773,0.174,4.6551,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_155,espacial,Patrón espacial de la zona,4.6496,0.2314,4.6551,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_156,vecinas,Rendimiento de las parcelas vecinas,3.2033,-0.2153,3.169,explica la predicción entregada (modelo final)
+AGC_156,clim_prec_vegetativa_2025,Lluvia en el crecimiento,198.6685,0.0027,3.169,explica la predicción entregada (modelo final)
+AGC_156,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.9557,-0.0121,3.169,explica la predicción entregada (modelo final)
+AGC_156,municipio,Promedio del municipio,3.0812,-0.2914,3.169,explica la predicción entregada (modelo final)
+AGC_156,espacial,Patrón espacial de la zona,3.1445,-0.2703,3.169,explica la predicción entregada (modelo final)
+AGC_157,vecinas,Rendimiento de las parcelas vecinas,3.1775,-0.2229,3.0737,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_157,clim_prec_vegetativa_2025,Lluvia en el crecimiento,133.7899,0.0209,3.0737,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_157,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.4275,-0.0368,3.0737,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_157,municipio,Promedio del municipio,3.0,-0.3185,3.0737,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_157,espacial,Patrón espacial de la zona,2.9822,-0.3244,3.0737,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_158,vecinas,Rendimiento de las parcelas vecinas,4.2121,0.0788,4.3564,explica la predicción entregada (modelo final)
+AGC_158,clim_prec_vegetativa_2025,Lluvia en el crecimiento,161.0119,0.0132,4.3564,explica la predicción entregada (modelo final)
+AGC_158,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.8216,-0.0051,4.3564,explica la predicción entregada (modelo final)
+AGC_158,municipio,Promedio del municipio,4.4773,0.174,4.3564,explica la predicción entregada (modelo final)
+AGC_158,espacial,Patrón espacial de la zona,4.3756,0.1401,4.3564,explica la predicción entregada (modelo final)
+AGC_159,vecinas,Rendimiento de las parcelas vecinas,4.5907,0.1892,4.5122,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_159,clim_prec_vegetativa_2025,Lluvia en el crecimiento,217.859,-0.0027,4.5122,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_159,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.4429,0.0147,4.5122,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_159,municipio,Promedio del municipio,4.4773,0.174,4.5122,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_159,espacial,Patrón espacial de la zona,4.5002,0.1816,4.5122,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_160,vecinas,Rendimiento de las parcelas vecinas,4.6124,0.1955,4.5484,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_160,clim_prec_vegetativa_2025,Lluvia en el crecimiento,179.7702,0.008,4.5484,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_160,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.2193,0.0265,4.5484,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_160,municipio,Promedio del municipio,4.4773,0.174,4.5484,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_160,espacial,Patrón espacial de la zona,4.5224,0.189,4.5484,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_161,vecinas,Rendimiento de las parcelas vecinas,4.6282,0.2002,4.5874,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_161,clim_prec_vegetativa_2025,Lluvia en el crecimiento,102.989,0.0295,4.5874,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_161,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.3676,0.0187,4.5874,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_161,municipio,Promedio del municipio,4.4773,0.174,4.5874,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_161,espacial,Patrón espacial de la zona,4.5841,0.2096,4.5874,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_162,vecinas,Rendimiento de las parcelas vecinas,4.6958,0.2199,4.6087,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_162,clim_prec_vegetativa_2025,Lluvia en el crecimiento,97.5659,0.031,4.6087,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_162,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.5572,0.0088,4.6087,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_162,municipio,Promedio del municipio,4.4773,0.174,4.6087,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_162,espacial,Patrón espacial de la zona,4.6143,0.2196,4.6087,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_163,vecinas,Rendimiento de las parcelas vecinas,3.129,-0.237,3.0501,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_163,clim_prec_vegetativa_2025,Lluvia en el crecimiento,160.7666,0.0133,3.0501,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_163,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.456,-0.0383,3.0501,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_163,municipio,Promedio del municipio,3.0,-0.3185,3.0501,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_163,espacial,Patrón espacial de la zona,2.9811,-0.3248,3.0501,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_164,vecinas,Rendimiento de las parcelas vecinas,2.9582,-0.2868,2.9967,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_164,clim_prec_vegetativa_2025,Lluvia en el crecimiento,210.5038,-0.0007,2.9967,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_164,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.7191,-0.0521,2.9967,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_164,municipio,Promedio del municipio,3.0,-0.3185,2.9967,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_164,espacial,Patrón espacial de la zona,3.0537,-0.3006,2.9967,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_165,vecinas,Rendimiento de las parcelas vecinas,4.4456,0.1469,4.5159,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_165,clim_prec_vegetativa_2025,Lluvia en el crecimiento,179.8584,0.0079,4.5159,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_165,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.5591,0.0087,4.5159,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_165,municipio,Promedio del municipio,4.4773,0.174,4.5159,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_165,espacial,Patrón espacial de la zona,4.6242,0.223,4.5159,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_166,vecinas,Rendimiento de las parcelas vecinas,2.9415,-0.2917,3.1146,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_166,clim_prec_vegetativa_2025,Lluvia en el crecimiento,291.8086,-0.0235,3.1146,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_166,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.2011,0.0274,3.1146,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_166,municipio,Promedio del municipio,3.0812,-0.2914,3.1146,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_166,espacial,Patrón espacial de la zona,3.1704,-0.2616,3.1146,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_167,vecinas,Rendimiento de las parcelas vecinas,4.5258,0.1703,4.521,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_167,clim_prec_vegetativa_2025,Lluvia en el crecimiento,104.5951,0.0291,4.521,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_167,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.5773,0.0077,4.521,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_167,municipio,Promedio del municipio,4.4773,0.174,4.521,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_167,espacial,Patrón espacial de la zona,4.5088,0.1845,4.521,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_168,vecinas,Rendimiento de las parcelas vecinas,4.4283,0.1419,4.5135,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_168,clim_prec_vegetativa_2025,Lluvia en el crecimiento,130.0074,0.0219,4.5135,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_168,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,8.6234,0.0577,4.5135,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_168,municipio,Promedio del municipio,4.4773,0.174,4.5135,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_168,espacial,Patrón espacial de la zona,4.4433,0.1626,4.5135,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_169,vecinas,Rendimiento de las parcelas vecinas,2.9473,-0.29,3.0055,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_169,clim_prec_vegetativa_2025,Lluvia en el crecimiento,88.0201,0.0337,3.0055,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_169,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.787,-0.0557,3.0055,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_169,municipio,Promedio del municipio,3.0,-0.3185,3.0055,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_169,espacial,Patrón espacial de la zona,2.9972,-0.3194,3.0055,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_170,vecinas,Rendimiento de las parcelas vecinas,2.9569,-0.2872,3.0353,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_170,clim_prec_vegetativa_2025,Lluvia en el crecimiento,57.8657,0.0422,3.0353,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_170,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.7633,-0.0544,3.0353,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_170,municipio,Promedio del municipio,3.0,-0.3185,3.0353,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_170,espacial,Patrón espacial de la zona,3.0487,-0.3022,3.0353,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_171,vecinas,Rendimiento de las parcelas vecinas,4.2,0.0753,4.345,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_171,clim_prec_vegetativa_2025,Lluvia en el crecimiento,258.8761,-0.0142,4.345,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_171,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.6539,0.0037,4.345,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_171,municipio,Promedio del municipio,4.4773,0.174,4.345,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_171,espacial,Patrón espacial de la zona,4.4079,0.1508,4.345,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_172,vecinas,Rendimiento de las parcelas vecinas,4.5427,0.1752,4.5758,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_172,clim_prec_vegetativa_2025,Lluvia en el crecimiento,137.7142,0.0198,4.5758,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_172,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.4531,0.0142,4.5758,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_172,municipio,Promedio del municipio,4.4773,0.174,4.5758,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_172,espacial,Patrón espacial de la zona,4.6671,0.2372,4.5758,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_173,vecinas,Rendimiento de las parcelas vecinas,2.9646,-0.285,2.9655,explica la predicción entregada (modelo final)
+AGC_173,clim_prec_vegetativa_2025,Lluvia en el crecimiento,279.4353,-0.02,2.9655,explica la predicción entregada (modelo final)
+AGC_173,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.8003,-0.0564,2.9655,explica la predicción entregada (modelo final)
+AGC_173,municipio,Promedio del municipio,3.0,-0.3185,2.9655,explica la predicción entregada (modelo final)
+AGC_173,espacial,Patrón espacial de la zona,3.0254,-0.31,2.9655,explica la predicción entregada (modelo final)
+AGC_174,vecinas,Rendimiento de las parcelas vecinas,4.5332,0.1724,4.4872,explica la predicción entregada (modelo final)
+AGC_174,clim_prec_vegetativa_2025,Lluvia en el crecimiento,176.6944,0.0088,4.4872,explica la predicción entregada (modelo final)
+AGC_174,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,8.3745,0.0707,4.4872,explica la predicción entregada (modelo final)
+AGC_174,municipio,Promedio del municipio,4.598,0.2142,4.4872,explica la predicción entregada (modelo final)
+AGC_174,espacial,Patrón espacial de la zona,4.1524,0.0657,4.4872,explica la predicción entregada (modelo final)
+AGC_175,vecinas,Rendimiento de las parcelas vecinas,4.582,0.1867,4.5149,explica la predicción entregada (modelo final)
+AGC_175,clim_prec_vegetativa_2025,Lluvia en el crecimiento,191.2132,0.0048,4.5149,explica la predicción entregada (modelo final)
+AGC_175,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.3815,0.018,4.5149,explica la predicción entregada (modelo final)
+AGC_175,municipio,Promedio del municipio,4.4773,0.174,4.5149,explica la predicción entregada (modelo final)
+AGC_175,espacial,Patrón espacial de la zona,4.4835,0.176,4.5149,explica la predicción entregada (modelo final)
+AGC_176,vecinas,Rendimiento de las parcelas vecinas,4.4675,0.1533,4.4491,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_176,clim_prec_vegetativa_2025,Lluvia en el crecimiento,276.7504,-0.0193,4.4491,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_176,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.5591,0.0087,4.4491,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_176,municipio,Promedio del municipio,4.4773,0.174,4.4491,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_176,espacial,Patrón espacial de la zona,4.4863,0.177,4.4491,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_177,vecinas,Rendimiento de las parcelas vecinas,4.3319,0.1138,4.3933,explica la predicción entregada (modelo final)
+AGC_177,clim_prec_vegetativa_2025,Lluvia en el crecimiento,333.0035,-0.035,4.3933,explica la predicción entregada (modelo final)
+AGC_177,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.3584,0.0192,4.3933,explica la predicción entregada (modelo final)
+AGC_177,municipio,Promedio del municipio,4.4773,0.174,4.3933,explica la predicción entregada (modelo final)
+AGC_177,espacial,Patrón espacial de la zona,4.4531,0.1659,4.3933,explica la predicción entregada (modelo final)
+AGC_178,vecinas,Rendimiento de las parcelas vecinas,4.4806,0.1571,4.4124,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_178,clim_prec_vegetativa_2025,Lluvia en el crecimiento,195.2795,0.0036,4.4124,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_178,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.7372,-0.0007,4.4124,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_178,municipio,Promedio del municipio,4.4773,0.174,4.4124,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_178,espacial,Patrón espacial de la zona,4.3244,0.123,4.4124,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_179,vecinas,Rendimiento de las parcelas vecinas,4.5349,0.1729,4.561,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_179,clim_prec_vegetativa_2025,Lluvia en el crecimiento,86.1794,0.0342,4.561,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_179,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.1659,0.0293,4.561,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_179,municipio,Promedio del municipio,4.4773,0.174,4.561,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_179,espacial,Patrón espacial de la zona,4.5409,0.1952,4.561,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_180,vecinas,Rendimiento de las parcelas vecinas,4.503,0.1636,4.526,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_180,clim_prec_vegetativa_2025,Lluvia en el crecimiento,135.1485,0.0205,4.526,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_180,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.0157,0.0371,4.526,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_180,municipio,Promedio del municipio,4.521,0.1885,4.526,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_180,espacial,Patrón espacial de la zona,4.438,0.1609,4.526,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_181,vecinas,Rendimiento de las parcelas vecinas,4.4721,0.1546,4.4668,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_181,clim_prec_vegetativa_2025,Lluvia en el crecimiento,152.2314,0.0157,4.4668,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_181,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.798,-0.0039,4.4668,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_181,municipio,Promedio del municipio,4.4773,0.174,4.4668,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_181,espacial,Patrón espacial de la zona,4.4684,0.171,4.4668,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_182,vecinas,Rendimiento de las parcelas vecinas,4.5035,0.1638,4.4395,explica la predicción entregada (modelo final)
+AGC_182,clim_prec_vegetativa_2025,Lluvia en el crecimiento,319.5246,-0.0313,4.4395,explica la predicción entregada (modelo final)
+AGC_182,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.5799,0.0076,4.4395,explica la predicción entregada (modelo final)
+AGC_182,municipio,Promedio del municipio,4.4773,0.174,4.4395,explica la predicción entregada (modelo final)
+AGC_182,espacial,Patrón espacial de la zona,4.4654,0.17,4.4395,explica la predicción entregada (modelo final)
+AGC_183,vecinas,Rendimiento de las parcelas vecinas,3.0345,-0.2646,2.9806,explica la predicción entregada (modelo final)
+AGC_183,clim_prec_vegetativa_2025,Lluvia en el crecimiento,241.837,-0.0095,2.9806,explica la predicción entregada (modelo final)
+AGC_183,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.7949,-0.0561,2.9806,explica la predicción entregada (modelo final)
+AGC_183,municipio,Promedio del municipio,3.0,-0.3185,2.9806,explica la predicción entregada (modelo final)
+AGC_183,espacial,Patrón espacial de la zona,2.9771,-0.3261,2.9806,explica la predicción entregada (modelo final)
+AGC_184,vecinas,Rendimiento de las parcelas vecinas,4.4962,0.1617,4.4476,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_184,clim_prec_vegetativa_2025,Lluvia en el crecimiento,301.0848,-0.0261,4.4476,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_184,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.4852,0.0125,4.4476,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_184,municipio,Promedio del municipio,4.521,0.1885,4.4476,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_184,espacial,Patrón espacial de la zona,4.4221,0.1556,4.4476,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_185,vecinas,Rendimiento de las parcelas vecinas,4.1655,0.0652,4.4211,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_185,clim_prec_vegetativa_2025,Lluvia en el crecimiento,139.0989,0.0194,4.4211,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_185,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,8.3717,0.0709,4.4211,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_185,municipio,Promedio del municipio,4.4773,0.174,4.4211,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_185,espacial,Patrón espacial de la zona,4.364,0.1362,4.4211,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_186,vecinas,Rendimiento de las parcelas vecinas,4.2839,0.0997,4.3388,explica la predicción entregada (modelo final)
+AGC_186,clim_prec_vegetativa_2025,Lluvia en el crecimiento,384.8005,-0.0496,4.3388,explica la predicción entregada (modelo final)
+AGC_186,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.4071,0.0166,4.3388,explica la predicción entregada (modelo final)
+AGC_186,municipio,Promedio del municipio,4.4773,0.174,4.3388,explica la predicción entregada (modelo final)
+AGC_186,espacial,Patrón espacial de la zona,4.3834,0.1427,4.3388,explica la predicción entregada (modelo final)
+AGC_187,vecinas,Rendimiento de las parcelas vecinas,3.0396,-0.2631,3.0637,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_187,clim_prec_vegetativa_2025,Lluvia en el crecimiento,111.3737,0.0272,3.0637,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_187,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.6808,-0.0501,3.0637,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_187,municipio,Promedio del municipio,3.0,-0.3185,3.0637,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_187,espacial,Patrón espacial de la zona,3.0937,-0.2872,3.0637,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_188,vecinas,Rendimiento de las parcelas vecinas,4.56,0.1803,4.544,explica la predicción entregada (modelo final)
+AGC_188,clim_prec_vegetativa_2025,Lluvia en el crecimiento,88.9306,0.0335,4.544,explica la predicción entregada (modelo final)
+AGC_188,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.2876,0.0229,4.544,explica la predicción entregada (modelo final)
+AGC_188,municipio,Promedio del municipio,4.4773,0.174,4.544,explica la predicción entregada (modelo final)
+AGC_188,espacial,Patrón espacial de la zona,4.4891,0.1779,4.544,explica la predicción entregada (modelo final)
+AGC_189,vecinas,Rendimiento de las parcelas vecinas,4.3519,0.1196,4.3793,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_189,clim_prec_vegetativa_2025,Lluvia en el crecimiento,364.7661,-0.044,4.3793,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_189,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.422,0.0158,4.3793,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_189,municipio,Promedio del municipio,4.4773,0.174,4.3793,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_189,espacial,Patrón espacial de la zona,4.431,0.1585,4.3793,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_190,vecinas,Rendimiento de las parcelas vecinas,4.5572,0.1795,4.5477,explica la predicción entregada (modelo final)
+AGC_190,clim_prec_vegetativa_2025,Lluvia en el crecimiento,224.5799,-0.0046,4.5477,explica la predicción entregada (modelo final)
+AGC_190,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.478,0.0129,4.5477,explica la predicción entregada (modelo final)
+AGC_190,municipio,Promedio del municipio,4.4773,0.174,4.5477,explica la predicción entregada (modelo final)
+AGC_190,espacial,Patrón espacial de la zona,4.6468,0.2305,4.5477,explica la predicción entregada (modelo final)
+AGC_191,vecinas,Rendimiento de las parcelas vecinas,4.6711,0.2127,4.5506,explica la predicción entregada (modelo final)
+AGC_191,clim_prec_vegetativa_2025,Lluvia en el crecimiento,154.8888,0.0149,4.5506,explica la predicción entregada (modelo final)
+AGC_191,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.6112,0.0059,4.5506,explica la predicción entregada (modelo final)
+AGC_191,municipio,Promedio del municipio,4.4773,0.174,4.5506,explica la predicción entregada (modelo final)
+AGC_191,espacial,Patrón espacial de la zona,4.5185,0.1877,4.5506,explica la predicción entregada (modelo final)
+AGC_192,vecinas,Rendimiento de las parcelas vecinas,4.4699,0.154,4.5184,explica la predicción entregada (modelo final)
+AGC_192,clim_prec_vegetativa_2025,Lluvia en el crecimiento,107.3464,0.0283,4.5184,explica la predicción entregada (modelo final)
+AGC_192,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.6609,0.0033,4.5184,explica la predicción entregada (modelo final)
+AGC_192,municipio,Promedio del municipio,4.4773,0.174,4.5184,explica la predicción entregada (modelo final)
+AGC_192,espacial,Patrón espacial de la zona,4.5657,0.2034,4.5184,explica la predicción entregada (modelo final)
+AGC_193,vecinas,Rendimiento de las parcelas vecinas,3.9071,-0.0101,4.272,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_193,clim_prec_vegetativa_2025,Lluvia en el crecimiento,185.5652,0.0063,4.272,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_193,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.7164,0.0004,4.272,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_193,municipio,Promedio del municipio,4.4773,0.174,4.272,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_193,espacial,Patrón espacial de la zona,4.3932,0.146,4.272,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_194,vecinas,Rendimiento de las parcelas vecinas,2.9255,-0.2964,3.1732,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_194,clim_prec_vegetativa_2025,Lluvia en el crecimiento,213.9578,-0.0016,3.1732,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_194,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,8.3857,0.0701,3.1732,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_194,municipio,Promedio del municipio,3.0812,-0.2914,3.1732,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_194,espacial,Patrón espacial de la zona,3.1665,-0.2629,3.1732,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_195,vecinas,Rendimiento de las parcelas vecinas,4.24,0.087,4.3446,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_195,clim_prec_vegetativa_2025,Lluvia en el crecimiento,374.1608,-0.0466,4.3446,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_195,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.3868,0.0177,4.3446,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_195,municipio,Promedio del municipio,4.4773,0.174,4.3446,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_195,espacial,Patrón espacial de la zona,4.4265,0.1571,4.3446,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_196,vecinas,Rendimiento de las parcelas vecinas,3.1073,-0.2434,3.376,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_196,clim_prec_vegetativa_2025,Lluvia en el crecimiento,89.6276,0.0333,3.376,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_196,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,10.5955,-0.0456,3.376,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_196,municipio,Promedio del municipio,3.5,-0.1518,3.376,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_196,espacial,Patrón espacial de la zona,3.4397,-0.1719,3.376,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_197,vecinas,Rendimiento de las parcelas vecinas,4.3011,0.1048,4.3873,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_197,clim_prec_vegetativa_2025,Lluvia en el crecimiento,156.0733,0.0146,4.3873,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_197,clim_amplitud_vegetativa_2025,Amplitud térmica en el crecimiento,9.8642,-0.0073,4.3873,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_197,municipio,Promedio del municipio,4.4773,0.174,4.3873,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv
+AGC_197,espacial,Patrón espacial de la zona,4.3928,0.1458,4.3873,explica el ajuste del modelo final; NO la predicción fuera de fold de predicciones.csv

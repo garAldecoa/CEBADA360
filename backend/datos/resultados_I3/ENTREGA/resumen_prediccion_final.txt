@@ -1,0 +1,15 @@
+CEBADA360 · PREDICCIÓN FINAL (paso 19) · 2026-10-14 15:40
+Modelo: ensamble con pesos 1/3 de (1) Ridge [rendimiento de 12 vecinas IDW + lluvia y amplitud térmica del crecimiento],
+        (2) promedio del municipio, (3) proceso gaussiano sobre coordenadas. Entrenado con 138 parcelas.
+Validación cruzada 10×5 estratificada por municipio: RMSE 0.4940 ± 0.0062 · MAE 0.3381 · R² 0.6607
+Calibración: y = -0.112 + 1.027·ŷ (IC 95 % pendiente [0.903, 1.151]); sesgo -0.0040 t/ha
+Estabilidad: desviación bootstrap de cada predicción, mediana 0.097 t/ha (máx 0.316)
+59 predicciones: media 3.9372 · mín 2.8297 · máx 4.6928 t/ha
+Intervalos empíricos: ±0.552 t/ha (80 %) · ±0.689 t/ha (90 %)
+Calificación esperada en 59 parcelas (p5 – mediana – p95): RMSE 0.369 – 0.483 – 0.620 ·
+  MAE 0.265 – 0.335 – 0.419 · R² 0.490 – 0.667 – 0.788
+Predicción media por municipio: Almoloya 4.50; Calpulalpan 3.00; Chignahuapan 4.46; Cuautepec de Hinojosa 4.51; Nanacamilpa de Mariano Arista 2.83; Singuilucan 3.15
+Parcelas para revisión manual: AGC_065, AGC_120
+Variables adicionales: >250 probadas (S2, Planet, Landsat, topografía, historial, std); ninguna mejora significativa (paso 20).
+Controles: 25 · OK 24 · avisos 1 · fallas 0
+Archivo: predicciones_59_entrega.csv · SHA-256 21955b71fdb306a17d793aafee8eac6f223e7485287001f7d68fe48be303243c

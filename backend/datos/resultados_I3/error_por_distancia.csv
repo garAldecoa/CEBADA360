@@ -1,0 +1,6 @@
+rango,n_validaciones,RMSE_ensamble,RMSE_sin_ubicacion,parcelas_de_las_59,RMSE_esperado_59
+< 0.5 km,888,0.444,0.542,39,0.509
+0.5-1 km,518,0.641,0.708,13,0.509
+1-2 km,856,0.566,0.658,7,0.509
+2-4 km,1041,0.503,0.602,0,0.509
+> 4 km,837,0.767,0.894,0,0.509

@@ -1,0 +1,11 @@
+modelo,familia,RMSE,RMSE_sd,MAE,R2
+Ensamble CEBADA360 (Ridge + municipio + espacial),seleccionado,0.494,0.0062,0.3381,0.6607
+Ridge: vecinas + lluvia + amplitud térmica,componente / referencia,0.4963,0.011,0.3565,0.6575
+Vecinas k=12 solas,componente / referencia,0.4995,0.0118,0.3603,0.6531
+Proceso gaussiano (coordenadas),componente / referencia,0.5076,0.007,0.3502,0.6418
+Promedio del municipio,componente / referencia,0.5116,0.0043,0.3338,0.6361
+Random Forest: vecinas + 24 variables núcleo,descartado (ML de árboles),0.5148,0.0164,0.3714,0.6315
+Random Forest: vecinas + lluvia + amplitud,descartado (ML de árboles),0.5218,0.012,0.3744,0.6214
+Gradient Boosting: vecinas + 24 variables núcleo,descartado (ML de árboles),0.5632,0.0319,0.414,0.559
+Gradient Boosting: vecinas + lluvia + amplitud,descartado (ML de árboles),0.5641,0.0278,0.4047,0.5575
+Media global (referencia),componente / referencia,0.8508,0.0014,0.7499,-0.0064

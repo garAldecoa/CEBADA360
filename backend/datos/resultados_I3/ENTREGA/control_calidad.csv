@@ -1,0 +1,26 @@
+control,resultado,detalle,critico
+"197 parcelas, sin IDs repetidos",OK,197 filas,True
+138 de entrenamiento con rendimiento,OK,138 parcelas,True
+59 de predicción SIN rendimiento (no hay fuga),OK,59 parcelas,True
+Las 59 coinciden con la lista oficial (archivo oficial ID_area_rendimiento_70_30_Reto_AgroCebada.csv),OK,faltan 0 · sobran 0,True
+Coordenadas y clima completos en las 197,OK,,True
+Municipios de las 59 existen en entrenamiento,OK,todos,True
+Coincide con predicciones.csv del paso E,OK,diferencia máxima 0.000000 t/ha,True
+Dos entrenamientos seguidos dan exactamente lo mismo,OK,,True
+RMSE de validación igual al reportado (0.494 ± 0.002),OK,0.4940,True
+Pendiente de calibración compatible con 1 (no hace falta recalibrar),OK,"IC [0.903, 1.151]",False
+Sin sesgo sistemático (|sesgo| < 0.05 t/ha),OK,-0.0040,True
+Predicciones estables al remuestrear (desv. bootstrap < 0.25 t/ha),AVISO,máx 0.316 · menos estables: AGC_120 (su municipio tiene muy pocas parcelas con dato),False
+Estabilidad global: desv. bootstrap mediana < 0.15 t/ha,OK,mediana 0.097,True
+Predicciones poco sensibles a k (cambio máx < 0.3 t/ha),OK,,False
+Independiente de la semilla del proceso gaussiano,OK,máx 0.00e+00,True
+Ninguna predicción > 0.75 t/ha lejos de sus vecinas,OK,0 parcelas,False
+Promedio de cada municipio cercano al del entrenamiento (< 0.35 t/ha),OK,Almoloya: -0.02; Calpulalpan: +0.00; Chignahuapan: -0.02; Cuautepec de Hinojosa: -0.08; Nanacamilpa de Mariano Arista: +0.33; Singuilucan: +0.07,False
+Archivo con 59 filas y 2 columnas,OK,"(59, 2)",True
+"IDs con formato AGC_###, únicos y ordenados",OK,,True
+IDs exactamente iguales a la lista oficial,OK,,True
+Todas las predicciones con 4 decimales exactos,OK,,True
+"Sin vacíos, infinitos ni negativos",OK,,True
+"Todas dentro del rango plausible [1.50, 6.09] t/ha",OK,2.8297 a 4.6928,True
+El archivo coincide con la predicción del modelo,OK,,True
+Predicciones no redondeadas a 0.5 (se pierde precisión),OK,,False

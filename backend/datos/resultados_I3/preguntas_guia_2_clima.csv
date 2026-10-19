@@ -1,0 +1,16 @@
+variable,spearman,rmse_con_vecinas,mejora_vs_vecinas
+clim_prec_vegetativa_2025,-0.0372,0.4979,0.0016
+clim_tmin_vegetativa_2025,0.4645,0.4979,0.0016
+clim_amplitud_vegetativa_2025,-0.5847,0.498,0.0015
+clim_tmed_vegetativa_2025,0.3449,0.4987,0.0008
+clim_amplitud_llenado_2025,-0.2848,0.4988,0.0007
+clim_tmin_llenado_2025,0.011,0.4989,0.0006
+clim_tmed_llenado_2025,-0.1326,0.4993,0.0002
+clim_tmax_vegetativa_2025,-0.2425,0.4996,-0.0001
+clim_prec_llenado_2025,0.0414,0.5003,-0.0008
+clim_prec_siembra_2025,-0.3765,0.5009,-0.0014
+clim_tmax_llenado_2025,-0.3966,0.5011,-0.0016
+clim_amplitud_siembra_2025,-0.1969,0.5015,-0.002
+clim_tmin_siembra_2025,0.3449,0.5016,-0.0021
+clim_tmed_siembra_2025,0.3001,0.5035,-0.004
+clim_tmax_siembra_2025,0.0618,0.5037,-0.0042

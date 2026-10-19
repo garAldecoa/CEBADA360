@@ -1,0 +1,2 @@
+rmse_ensamble,n_atipicos,pct_error_atipicos,rmse_sin_atipicos,spearman_indice_residual,auc,p_auc,mejora_media_ajuste,alertas_59,decision
+0.494,12,58.8426,0.3316,-0.0375,0.5169,0.437,-0.008,0,"NO se recomienda ajustar: el índice de daño no separa a las parcelas que rindieron mucho menos (AUC 0.52, p 0.437); el ajuste no baja el RMSE de forma consistente (mejora media -0.0080 t/ha, mejora en 0 de 5 repeticiones). Esos errores grandes no se ven desde el satélite con estos datos: el modelo se queda como está y las alertas solo sirven como aviso en la app."
