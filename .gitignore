@@ -1,0 +1,13 @@
+# Videos grandes
+*.mp4
+
+# Entornos virtuales
+**/.venv/
+
+# Dependencias de Node.js
+**/node_modules/
+
+# Configuración privada
+**/.env
+**/.env.*
+!**/.env.example
