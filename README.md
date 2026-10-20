@@ -1,3 +1,9 @@
+Enlaces:
+- Aplicación web: https://cebada-360.vercel.app/
+- Video demostrativo: https://youtu.be/ILUmIugahRs
+- Repositorio de código: [URL] : https://github.com/garAldecoa/CEBADA360/tree/main
+-Notebook regresión sin compromiso : https://colab.research.google.com/drive/1XoWK-QbDsXoIrx4D90Ary392jsHmaXpA?usp=sharing
+
 # 🌾 CEBADA360
 
 **Plataforma web de consulta, visualización y predicción del rendimiento de cebada**  
